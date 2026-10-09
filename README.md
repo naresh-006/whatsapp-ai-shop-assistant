@@ -103,6 +103,15 @@ Customer: Satya
 
 ---
 
+## 📸 Live Conversational Demo & System Outputs
+
+| 1. Order Extraction ➔ Draft Bill ➔ Confirmation | 2. Dynamic In-Flight Edits & Ambiguity Resolution | 3. Father's Conversational BI & Analytics |
+| :---: | :---: | :---: |
+| <img src="docs/images/whatsapp_draft_bill.jpg" width="280" alt="WhatsApp Draft Bill Flow"/> | <img src="docs/images/whatsapp_conversational_edit.jpg" width="280" alt="Dynamic Edits and Ambiguity"/> | <img src="docs/images/whatsapp_father_query.jpg" width="280" alt="Father Sales Analytics Query"/> |
+| **End-to-End Extraction & Billing**<br>Extracts spoken Tanglish order, computes deterministic Decimal total (₹898.00), locks stock on 'OK'. | **Conversational State Machine**<br>Live modifications ("Change Filter to 5") and multi-variant pricing clarification prompts. | **Text-to-Query Intelligence**<br>Translates natural queries into MongoDB temporal aggregations & store summaries. |
+
+---
+
 ## 📦 Verified Product Catalog Matrix
 
 | Product ID | Canonical Name | Retail Unit | Retail Rate | Wholesale Unit | Wholesale Rate | Unit Conversion Rule |
