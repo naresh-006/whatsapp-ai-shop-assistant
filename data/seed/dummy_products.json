@@ -1,0 +1,3810 @@
+[
+  {
+    "product_id": "PARLE_G_5",
+    "canonical_name": "Parle-G ₹5",
+    "brand": "Parle",
+    "category": "Biscuits",
+    "variant": "₹5",
+    "tamil_name": "பார்லே ஜி ஐந்து ரூபாய்",
+    "aliases": [
+      "Parle G 5",
+      "Parle G",
+      "Parle 5",
+      "Parle packet"
+    ],
+    "tamil_aliases": [
+      "பார்லே ஜி",
+      "பார்லே 5"
+    ],
+    "retail_unit": "packet",
+    "wholesale_unit": "bundle",
+    "base_unit": "packet",
+    "retail_rate": 5.0,
+    "wholesale_rate": 4.5,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 24,
+        "rate": 108.0,
+        "notes": "1 bundle = 24 packets"
+      }
+    },
+    "stock_quantity": 240,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "PARLE_G_10",
+    "canonical_name": "Parle-G ₹10",
+    "brand": "Parle",
+    "category": "Biscuits",
+    "variant": "₹10",
+    "tamil_name": "பார்லே ஜி பத்து ரூபாய்",
+    "aliases": [
+      "Parle G 10",
+      "Parle 10",
+      "Parle big packet"
+    ],
+    "tamil_aliases": [
+      "பார்லே 10",
+      "பார்லே ஜி பத்து"
+    ],
+    "retail_unit": "packet",
+    "wholesale_unit": "bundle",
+    "base_unit": "packet",
+    "retail_rate": 10.0,
+    "wholesale_rate": 9.0,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 24,
+        "rate": 216.0,
+        "notes": "1 bundle = 24 packets"
+      }
+    },
+    "stock_quantity": 180,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "GOOD_DAY_BUTTER_10",
+    "canonical_name": "Good Day Butter ₹10",
+    "brand": "Britannia",
+    "category": "Biscuits",
+    "variant": "Butter ₹10",
+    "tamil_name": "குட் டே பட்டர் பத்து ரூபாய்",
+    "aliases": [
+      "Good Day Butter",
+      "Good Day 10",
+      "Good Day Butter 10"
+    ],
+    "tamil_aliases": [
+      "குட் டே 10",
+      "குட் டே"
+    ],
+    "retail_unit": "packet",
+    "wholesale_unit": "bundle",
+    "base_unit": "packet",
+    "retail_rate": 10.0,
+    "wholesale_rate": 9.2,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 24,
+        "rate": 220.0,
+        "notes": "1 bundle = 24 packets"
+      }
+    },
+    "stock_quantity": 120,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "GOOD_DAY_CASHEW_10",
+    "canonical_name": "Good Day Cashew ₹10",
+    "brand": "Britannia",
+    "category": "Biscuits",
+    "variant": "Cashew ₹10",
+    "tamil_name": "குட் டே முந்திரி பத்து ரூபாய்",
+    "aliases": [
+      "Good Day Cashew",
+      "Good Day Cashew 10",
+      "Cashew Good Day"
+    ],
+    "tamil_aliases": [
+      "குட் டே கேஷ்யூ",
+      "குட் டே முந்திரி"
+    ],
+    "retail_unit": "packet",
+    "wholesale_unit": "bundle",
+    "base_unit": "packet",
+    "retail_rate": 10.0,
+    "wholesale_rate": 9.2,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 24,
+        "rate": 220.0,
+        "notes": "1 bundle = 24 packets"
+      }
+    },
+    "stock_quantity": 100,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "BRITANNIA_MARIE_GOLD_10",
+    "canonical_name": "Britannia Marie Gold ₹10",
+    "brand": "Britannia",
+    "category": "Biscuits",
+    "variant": "₹10",
+    "tamil_name": "பிரிட்டானியா மேரி கோல்ட் ₹10",
+    "aliases": [
+      "Marie Gold",
+      "Marie Gold 10",
+      "Britannia Marie"
+    ],
+    "tamil_aliases": [
+      "மேரி கோல்ட் 10",
+      "மேரி கோல்ட்"
+    ],
+    "retail_unit": "packet",
+    "wholesale_unit": "bundle",
+    "base_unit": "packet",
+    "retail_rate": 10.0,
+    "wholesale_rate": 9.2,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 24,
+        "rate": 220.0,
+        "notes": "1 bundle = 24 packets"
+      }
+    },
+    "stock_quantity": 150,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "MILK_BIKIS_10",
+    "canonical_name": "Milk Bikis ₹10",
+    "brand": "Britannia",
+    "category": "Biscuits",
+    "variant": "₹10",
+    "tamil_name": "மில்க் பிகிஸ் பத்து ரூபாய்",
+    "aliases": [
+      "Milk Bikis",
+      "Milk Bikis 10",
+      "Bikis 10"
+    ],
+    "tamil_aliases": [
+      "மில்க் பிகிஸ் 10",
+      "மில்க் பிகிஸ்"
+    ],
+    "retail_unit": "packet",
+    "wholesale_unit": "bundle",
+    "base_unit": "packet",
+    "retail_rate": 10.0,
+    "wholesale_rate": 9.0,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 24,
+        "rate": 216.0,
+        "notes": "1 bundle = 24 packets"
+      }
+    },
+    "stock_quantity": 200,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "BOURBON_10",
+    "canonical_name": "Britannia Bourbon ₹10",
+    "brand": "Britannia",
+    "category": "Biscuits",
+    "variant": "₹10",
+    "tamil_name": "போர்பன் பிஸ்கட் பத்து ரூபாய்",
+    "aliases": [
+      "Bourbon",
+      "Bourbon 10",
+      "Bourbon biscuit"
+    ],
+    "tamil_aliases": [
+      "போர்பன் 10",
+      "போர்பன்"
+    ],
+    "retail_unit": "packet",
+    "wholesale_unit": "bundle",
+    "base_unit": "packet",
+    "retail_rate": 10.0,
+    "wholesale_rate": 9.2,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 24,
+        "rate": 220.0,
+        "notes": "1 bundle = 24 packets"
+      }
+    },
+    "stock_quantity": 90,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "DARK_FANTASY_30",
+    "canonical_name": "Sunfeast Dark Fantasy ₹30",
+    "brand": "Sunfeast",
+    "category": "Biscuits",
+    "variant": "Choco Fills ₹30",
+    "tamil_name": "டார்க் ஃபேண்டசி ₹30",
+    "aliases": [
+      "Dark Fantasy",
+      "Dark Fantasy 30",
+      "Choco Fills"
+    ],
+    "tamil_aliases": [
+      "டார்க் ஃபேண்டசி"
+    ],
+    "retail_unit": "packet",
+    "wholesale_unit": "bundle",
+    "base_unit": "packet",
+    "retail_rate": 30.0,
+    "wholesale_rate": 27.0,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 12,
+        "rate": 324.0,
+        "notes": "1 bundle = 12 packets"
+      }
+    },
+    "stock_quantity": 50,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "50_50_MASALA_10",
+    "canonical_name": "Britannia 50-50 Maska Chaska ₹10",
+    "brand": "Britannia",
+    "category": "Biscuits",
+    "variant": "Maska Chaska ₹10",
+    "tamil_name": "50-50 மஸ்கா சஸ்கா ₹10",
+    "aliases": [
+      "50 50",
+      "Fifty Fifty",
+      "Maska Chaska",
+      "50 50 biscuit"
+    ],
+    "tamil_aliases": [
+      "பிப்டி பிப்டி",
+      "50 50"
+    ],
+    "retail_unit": "packet",
+    "wholesale_unit": "bundle",
+    "base_unit": "packet",
+    "retail_rate": 10.0,
+    "wholesale_rate": 9.2,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 24,
+        "rate": 220.0,
+        "notes": "1 bundle = 24 packets"
+      }
+    },
+    "stock_quantity": 110,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "KRACKJACK_10",
+    "canonical_name": "Parle Krackjack ₹10",
+    "brand": "Parle",
+    "category": "Biscuits",
+    "variant": "₹10",
+    "tamil_name": "கிராக்ஜாக் ₹10",
+    "aliases": [
+      "Krackjack",
+      "Krackjack 10",
+      "Crackjack"
+    ],
+    "tamil_aliases": [
+      "கிராக்ஜாக்"
+    ],
+    "retail_unit": "packet",
+    "wholesale_unit": "bundle",
+    "base_unit": "packet",
+    "retail_rate": 10.0,
+    "wholesale_rate": 9.0,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 24,
+        "rate": 216.0,
+        "notes": "1 bundle = 24 packets"
+      }
+    },
+    "stock_quantity": 80,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "BOUNCE_CHOCO_5",
+    "canonical_name": "Sunfeast Bounce Choco ₹5",
+    "brand": "Sunfeast",
+    "category": "Biscuits",
+    "variant": "Choco ₹5",
+    "tamil_name": "பவுன்ஸ் சாக்லேட் ₹5",
+    "aliases": [
+      "Bounce",
+      "Bounce Choco",
+      "Bounce 5"
+    ],
+    "tamil_aliases": [
+      "பவுன்ஸ் 5",
+      "பவுன்ஸ்"
+    ],
+    "retail_unit": "packet",
+    "wholesale_unit": "bundle",
+    "base_unit": "packet",
+    "retail_rate": 5.0,
+    "wholesale_rate": 4.5,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 24,
+        "rate": 108.0,
+        "notes": "1 bundle = 24 packets"
+      }
+    },
+    "stock_quantity": 140,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "RUSK_ELACHI_40",
+    "canonical_name": "Britannia Toastea Rusk ₹40",
+    "brand": "Britannia",
+    "category": "Biscuits",
+    "variant": "Elaichi 200g",
+    "tamil_name": "ரஸ்க் பாக்கெட் ₹40",
+    "aliases": [
+      "Rusk",
+      "Toast",
+      "Rusk packet",
+      "Britannia Rusk"
+    ],
+    "tamil_aliases": [
+      "ரஸ்க்",
+      "டோஸ்ட்"
+    ],
+    "retail_unit": "packet",
+    "wholesale_unit": null,
+    "base_unit": "packet",
+    "retail_rate": 40.0,
+    "wholesale_rate": 36.0,
+    "conversion_rules": {},
+    "stock_quantity": 40,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "LAYS_MAGIC_MASALA_5",
+    "canonical_name": "Lay's Magic Masala ₹5",
+    "brand": "Lay's",
+    "category": "Snacks",
+    "variant": "Blue ₹5",
+    "tamil_name": "லேஸ் நீல நிறம் ஐந்து ரூபாய்",
+    "aliases": [
+      "Lays Blue 5",
+      "Lays Masala 5",
+      "Blue Lays 5",
+      "Lays 5"
+    ],
+    "tamil_aliases": [
+      "லேஸ் 5",
+      "லேஸ் நீலம்"
+    ],
+    "retail_unit": "saram",
+    "wholesale_unit": "saram",
+    "base_unit": "saram",
+    "retail_rate": 76.0,
+    "wholesale_rate": 72.0,
+    "conversion_rules": {
+      "saram": {
+        "pieces": 16,
+        "rate": 76.0,
+        "notes": "1 saram = 16 packets"
+      }
+    },
+    "stock_quantity": 45,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "LAYS_MAGIC_MASALA_10",
+    "canonical_name": "Lay's Magic Masala ₹10",
+    "brand": "Lay's",
+    "category": "Snacks",
+    "variant": "Blue ₹10",
+    "tamil_name": "லேஸ் நீல நிறம் பத்து ரூபாய்",
+    "aliases": [
+      "Lays Blue 10",
+      "Lays Masala 10",
+      "Blue Lays 10",
+      "Lays 10"
+    ],
+    "tamil_aliases": [
+      "லேஸ் 10",
+      "லேஸ் பத்து"
+    ],
+    "retail_unit": "saram",
+    "wholesale_unit": "saram",
+    "base_unit": "saram",
+    "retail_rate": 110.0,
+    "wholesale_rate": 102.0,
+    "conversion_rules": {
+      "saram": {
+        "pieces": 16,
+        "rate": 110.0,
+        "notes": "1 saram = 16 packets"
+      }
+    },
+    "stock_quantity": 50,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "LAYS_CREAM_ONION_10",
+    "canonical_name": "Lay's American Style Cream & Onion ₹10",
+    "brand": "Lay's",
+    "category": "Snacks",
+    "variant": "Green ₹10",
+    "tamil_name": "லேஸ் பச்சை நிறம் பத்து ரூபாய்",
+    "aliases": [
+      "Lays Green 10",
+      "Lays Cream Onion",
+      "Green Lays 10",
+      "Lays onion"
+    ],
+    "tamil_aliases": [
+      "லேஸ் பச்சை 10",
+      "லேஸ் பச்சை"
+    ],
+    "retail_unit": "saram",
+    "wholesale_unit": "saram",
+    "base_unit": "saram",
+    "retail_rate": 110.0,
+    "wholesale_rate": 102.0,
+    "conversion_rules": {
+      "saram": {
+        "pieces": 16,
+        "rate": 110.0,
+        "notes": "1 saram = 16 packets"
+      }
+    },
+    "stock_quantity": 40,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "KURKURE_MASALA_MUNCH_5",
+    "canonical_name": "Kurkure Masala Munch ₹5",
+    "brand": "Kurkure",
+    "category": "Snacks",
+    "variant": "₹5",
+    "tamil_name": "குர்குரே ஐந்து ரூபாய்",
+    "aliases": [
+      "Kurkure 5",
+      "Kurkure five",
+      "Kurkure saram 5"
+    ],
+    "tamil_aliases": [
+      "குர்குரே 5",
+      "குர்குரே"
+    ],
+    "retail_unit": "saram",
+    "wholesale_unit": "saram",
+    "base_unit": "saram",
+    "retail_rate": 76.0,
+    "wholesale_rate": 72.0,
+    "conversion_rules": {
+      "saram": {
+        "pieces": 16,
+        "rate": 76.0,
+        "notes": "1 saram = 16 packets"
+      }
+    },
+    "stock_quantity": 60,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "KURKURE_MASALA_MUNCH_10",
+    "canonical_name": "Kurkure Masala Munch ₹10",
+    "brand": "Kurkure",
+    "category": "Snacks",
+    "variant": "₹10",
+    "tamil_name": "குர்குரே பத்து ரூபாய்",
+    "aliases": [
+      "Kurkure 10",
+      "Kurkure ten",
+      "Kurkure saram 10"
+    ],
+    "tamil_aliases": [
+      "குர்குரே 10",
+      "குர்குரே பத்து"
+    ],
+    "retail_unit": "saram",
+    "wholesale_unit": "saram",
+    "base_unit": "saram",
+    "retail_rate": 110.0,
+    "wholesale_rate": 102.0,
+    "conversion_rules": {
+      "saram": {
+        "pieces": 16,
+        "rate": 110.0,
+        "notes": "1 saram = 16 packets"
+      }
+    },
+    "stock_quantity": 55,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "BINGO_TEDHE_MEDHE_5",
+    "canonical_name": "Bingo Tedhe Medhe ₹5",
+    "brand": "Bingo",
+    "category": "Snacks",
+    "variant": "Tedhe Medhe ₹5",
+    "tamil_name": "பிங்கோ தேடே மேதே ₹5",
+    "aliases": [
+      "Tedhe Medhe 5",
+      "Bingo Tedhe Medhe",
+      "Tedhe Medhe"
+    ],
+    "tamil_aliases": [
+      "தேடே மேதே 5",
+      "தேடே மேதே"
+    ],
+    "retail_unit": "saram",
+    "wholesale_unit": "saram",
+    "base_unit": "saram",
+    "retail_rate": 76.0,
+    "wholesale_rate": 72.0,
+    "conversion_rules": {
+      "saram": {
+        "pieces": 16,
+        "rate": 76.0,
+        "notes": "1 saram = 16 packets"
+      }
+    },
+    "stock_quantity": 40,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "BINGO_MAD_ANGLES_10",
+    "canonical_name": "Bingo Mad Angles Achaari Masti ₹10",
+    "brand": "Bingo",
+    "category": "Snacks",
+    "variant": "Mad Angles ₹10",
+    "tamil_name": "பிங்கோ மேட் ஆங்கிள்ஸ் ₹10",
+    "aliases": [
+      "Mad Angles 10",
+      "Mad Angles",
+      "Bingo Mad Angles"
+    ],
+    "tamil_aliases": [
+      "மேட் ஆங்கிள்ஸ் 10",
+      "மேட் ஆங்கிள்ஸ்"
+    ],
+    "retail_unit": "saram",
+    "wholesale_unit": "saram",
+    "base_unit": "saram",
+    "retail_rate": 110.0,
+    "wholesale_rate": 102.0,
+    "conversion_rules": {
+      "saram": {
+        "pieces": 16,
+        "rate": 110.0,
+        "notes": "1 saram = 16 packets"
+      }
+    },
+    "stock_quantity": 35,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "HALDIRAMS_BHUJIA_10",
+    "canonical_name": "Haldiram's Bhujia Sev ₹10",
+    "brand": "Haldiram",
+    "category": "Snacks",
+    "variant": "₹10",
+    "tamil_name": "ஹல்திராம் புஜியா ₹10",
+    "aliases": [
+      "Bhujia 10",
+      "Haldiram Bhujia",
+      "Sev 10"
+    ],
+    "tamil_aliases": [
+      "புஜியா 10",
+      "புஜியா"
+    ],
+    "retail_unit": "packet",
+    "wholesale_unit": "bundle",
+    "base_unit": "packet",
+    "retail_rate": 10.0,
+    "wholesale_rate": 9.0,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 20,
+        "rate": 180.0,
+        "notes": "1 bundle = 20 packets"
+      }
+    },
+    "stock_quantity": 70,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "HALDIRAMS_ALOO_BHUJIA_10",
+    "canonical_name": "Haldiram's Aloo Bhujia ₹10",
+    "brand": "Haldiram",
+    "category": "Snacks",
+    "variant": "Aloo ₹10",
+    "tamil_name": "ஹல்திராம் ஆலு புஜியா ₹10",
+    "aliases": [
+      "Aloo Bhujia",
+      "Aloo Bhujia 10",
+      "Haldiram Aloo Bhujia"
+    ],
+    "tamil_aliases": [
+      "ஆலு புஜியா 10",
+      "ஆலு புஜியா"
+    ],
+    "retail_unit": "packet",
+    "wholesale_unit": "bundle",
+    "base_unit": "packet",
+    "retail_rate": 10.0,
+    "wholesale_rate": 9.0,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 20,
+        "rate": 180.0,
+        "notes": "1 bundle = 20 packets"
+      }
+    },
+    "stock_quantity": 65,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "MIXTURE_PACKET_10",
+    "canonical_name": "Spicy Mixture ₹10",
+    "brand": "Local",
+    "category": "Snacks",
+    "variant": "100g ₹10",
+    "tamil_name": "கார மிக்சர் ₹10",
+    "aliases": [
+      "Mixture",
+      "Mixer",
+      "Spicy Mixture",
+      "Mixture packet 10"
+    ],
+    "tamil_aliases": [
+      "மிக்சர் 10",
+      "மிக்சர்"
+    ],
+    "retail_unit": "packet",
+    "wholesale_unit": "bundle",
+    "base_unit": "packet",
+    "retail_rate": 10.0,
+    "wholesale_rate": 8.5,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 20,
+        "rate": 170.0,
+        "notes": "1 bundle = 20 packets"
+      }
+    },
+    "stock_quantity": 90,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "MURUKKU_PACKET_10",
+    "canonical_name": "Butter Murukku ₹10",
+    "brand": "Local",
+    "category": "Snacks",
+    "variant": "₹10",
+    "tamil_name": "பட்டர் முறுக்கு ₹10",
+    "aliases": [
+      "Murukku",
+      "Butter Murukku",
+      "Murukku packet"
+    ],
+    "tamil_aliases": [
+      "முறுக்கு 10",
+      "முறுக்கு"
+    ],
+    "retail_unit": "packet",
+    "wholesale_unit": "bundle",
+    "base_unit": "packet",
+    "retail_rate": 10.0,
+    "wholesale_rate": 8.5,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 20,
+        "rate": 170.0,
+        "notes": "1 bundle = 20 packets"
+      }
+    },
+    "stock_quantity": 80,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "PEANUT_CHIKKI_5",
+    "canonical_name": "Kadalai Mittai (Chikki) ₹5",
+    "brand": "Kovilpatti",
+    "category": "Snacks",
+    "variant": "₹5",
+    "tamil_name": "கடலை மிட்டாய் ஐந்து ரூபாய்",
+    "aliases": [
+      "Kadalai Mittai",
+      "Chikki",
+      "Peanut candy",
+      "Kadalai Mittai 5"
+    ],
+    "tamil_aliases": [
+      "கடலை மிட்டாய் 5",
+      "கடலை மிட்டாய்"
+    ],
+    "retail_unit": "piece",
+    "wholesale_unit": "bundle",
+    "base_unit": "piece",
+    "retail_rate": 5.0,
+    "wholesale_rate": 4.0,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 50,
+        "rate": 200.0,
+        "notes": "1 bundle = 50 pieces"
+      }
+    },
+    "stock_quantity": 250,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "MAGGI_2_MIN_14",
+    "canonical_name": "Maggi 2-Minute Masala Noodles ₹14",
+    "brand": "Nestle",
+    "category": "Noodles",
+    "variant": "Single ₹14",
+    "tamil_name": "மேகி நூடுல்ஸ் ₹14",
+    "aliases": [
+      "Maggi",
+      "Maggie",
+      "Maggi 14",
+      "Maggi noodles"
+    ],
+    "tamil_aliases": [
+      "மேகி 14",
+      "மேகி"
+    ],
+    "retail_unit": "piece",
+    "wholesale_unit": "dozen",
+    "base_unit": "piece",
+    "retail_rate": 14.0,
+    "wholesale_rate": 12.8,
+    "conversion_rules": {
+      "dozen": {
+        "pieces": 12,
+        "rate": 153.6,
+        "notes": "1 dozen = 12 pieces"
+      }
+    },
+    "stock_quantity": 180,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "MAGGI_SPECIAL_MASALA_20",
+    "canonical_name": "Maggi Special Masala Noodles ₹20",
+    "brand": "Nestle",
+    "category": "Noodles",
+    "variant": "Special ₹20",
+    "tamil_name": "மேகி ஸ்பெஷல் மசாலா ₹20",
+    "aliases": [
+      "Maggi Special",
+      "Special Maggi",
+      "Maggi 20"
+    ],
+    "tamil_aliases": [
+      "மேகி ஸ்பெஷல்"
+    ],
+    "retail_unit": "piece",
+    "wholesale_unit": "dozen",
+    "base_unit": "piece",
+    "retail_rate": 20.0,
+    "wholesale_rate": 18.0,
+    "conversion_rules": {
+      "dozen": {
+        "pieces": 12,
+        "rate": 216.0,
+        "notes": "1 dozen = 12 pieces"
+      }
+    },
+    "stock_quantity": 90,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "TOP_RAMEN_CURRY_15",
+    "canonical_name": "Top Ramen Curry Veg Noodles ₹15",
+    "brand": "Nissin",
+    "category": "Noodles",
+    "variant": "Curry ₹15",
+    "tamil_name": "டாப் ராமன் நூடுல்ஸ் ₹15",
+    "aliases": [
+      "Top Ramen",
+      "Top Ramen 15",
+      "Ramen Curry"
+    ],
+    "tamil_aliases": [
+      "டாப் ராமன்"
+    ],
+    "retail_unit": "piece",
+    "wholesale_unit": "dozen",
+    "base_unit": "piece",
+    "retail_rate": 15.0,
+    "wholesale_rate": 13.5,
+    "conversion_rules": {
+      "dozen": {
+        "pieces": 12,
+        "rate": 162.0,
+        "notes": "1 dozen = 12 pieces"
+      }
+    },
+    "stock_quantity": 70,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "CHINGS_HAKKA_NOODLES_35",
+    "canonical_name": "Ching's Secret Hakka Noodles ₹35",
+    "brand": "Ching's",
+    "category": "Noodles",
+    "variant": "Veg 150g",
+    "tamil_name": "சிங்ஸ் ஹக்கா நூடுல்ஸ் ₹35",
+    "aliases": [
+      "Chings Hakka",
+      "Hakka noodles",
+      "Chings 35"
+    ],
+    "tamil_aliases": [
+      "ஹக்கா நூடுல்ஸ்"
+    ],
+    "retail_unit": "packet",
+    "wholesale_unit": "dozen",
+    "base_unit": "packet",
+    "retail_rate": 35.0,
+    "wholesale_rate": 31.0,
+    "conversion_rules": {
+      "dozen": {
+        "pieces": 12,
+        "rate": 372.0,
+        "notes": "1 dozen = 12 packets"
+      }
+    },
+    "stock_quantity": 40,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "CYCLE_PURE_AGARBATTI_15",
+    "canonical_name": "Cycle Pure Agarbatti ₹15",
+    "brand": "Cycle",
+    "category": "Incense",
+    "variant": "Three in One ₹15",
+    "tamil_name": "சைக்கிள் அகர்பத்தி ₹15",
+    "aliases": [
+      "Cycle Agarbatti",
+      "Cycle stick",
+      "Cycle Oothupathi",
+      "Cycle 15"
+    ],
+    "tamil_aliases": [
+      "சைக்கிள் ஊதுபத்தி 15",
+      "சைக்கிள் அகர்பத்தி"
+    ],
+    "retail_unit": "packet",
+    "wholesale_unit": "dozen",
+    "base_unit": "packet",
+    "retail_rate": 15.0,
+    "wholesale_rate": 13.0,
+    "conversion_rules": {
+      "dozen": {
+        "pieces": 12,
+        "rate": 156.0,
+        "notes": "1 dozen = 12 packets"
+      }
+    },
+    "stock_quantity": 100,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "CYCLE_PURE_AGARBATTI_30",
+    "canonical_name": "Cycle Pure Agarbatti Big ₹30",
+    "brand": "Cycle",
+    "category": "Incense",
+    "variant": "Three in One ₹30",
+    "tamil_name": "சைக்கிள் அகர்பத்தி பெரியது ₹30",
+    "aliases": [
+      "Cycle Agarbatti Big",
+      "Cycle 30",
+      "Cycle big packet"
+    ],
+    "tamil_aliases": [
+      "சைக்கிள் ஊதுபத்தி 30",
+      "சைக்கிள் பெரியது"
+    ],
+    "retail_unit": "packet",
+    "wholesale_unit": "dozen",
+    "base_unit": "packet",
+    "retail_rate": 30.0,
+    "wholesale_rate": 26.0,
+    "conversion_rules": {
+      "dozen": {
+        "pieces": 12,
+        "rate": 312.0,
+        "notes": "1 dozen = 12 packets"
+      }
+    },
+    "stock_quantity": 60,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "MANGALDEEP_SANDAL_15",
+    "canonical_name": "Mangaldeep Sandal Agarbatti ₹15",
+    "brand": "Mangaldeep",
+    "category": "Incense",
+    "variant": "Sandalwood ₹15",
+    "tamil_name": "மங்கள்தீப் சந்தனம் ₹15",
+    "aliases": [
+      "Mangaldeep",
+      "Mangaldeep Sandal",
+      "Sandal Agarbatti",
+      "Mangaldeep 15"
+    ],
+    "tamil_aliases": [
+      "மங்கள்தீப் 15",
+      "சந்தன ஊதுபத்தி"
+    ],
+    "retail_unit": "packet",
+    "wholesale_unit": "dozen",
+    "base_unit": "packet",
+    "retail_rate": 15.0,
+    "wholesale_rate": 13.0,
+    "conversion_rules": {
+      "dozen": {
+        "pieces": 12,
+        "rate": 156.0,
+        "notes": "1 dozen = 12 packets"
+      }
+    },
+    "stock_quantity": 75,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "CAMPHOR_DABBA_20",
+    "canonical_name": "Pure Camphor (Karpooram) Box ₹20",
+    "brand": "Local",
+    "category": "Incense",
+    "variant": "50g Box",
+    "tamil_name": "கற்பூரம் டப்பா ₹20",
+    "aliases": [
+      "Karpooram",
+      "Camphor",
+      "Karpooram box",
+      "Karpooram 20"
+    ],
+    "tamil_aliases": [
+      "கற்பூரம் 20",
+      "கற்பூரம்"
+    ],
+    "retail_unit": "piece",
+    "wholesale_unit": "dozen",
+    "base_unit": "piece",
+    "retail_rate": 20.0,
+    "wholesale_rate": 17.0,
+    "conversion_rules": {
+      "dozen": {
+        "pieces": 12,
+        "rate": 204.0,
+        "notes": "1 dozen = 12 boxes"
+      }
+    },
+    "stock_quantity": 90,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "DHOOP_CONE_10",
+    "canonical_name": "Sambrani Dhoop Cups ₹10",
+    "brand": "Cycle",
+    "category": "Incense",
+    "variant": "Cup Sambrani",
+    "tamil_name": "சாம்பிராணி கப் ₹10",
+    "aliases": [
+      "Sambrani",
+      "Dhoop cup",
+      "Sambrani cup",
+      "Dhoop 10"
+    ],
+    "tamil_aliases": [
+      "சாம்பிராணி 10",
+      "சாம்பிராணி"
+    ],
+    "retail_unit": "packet",
+    "wholesale_unit": "dozen",
+    "base_unit": "packet",
+    "retail_rate": 10.0,
+    "wholesale_rate": 8.5,
+    "conversion_rules": {
+      "dozen": {
+        "pieces": 12,
+        "rate": 102.0,
+        "notes": "1 dozen = 12 packets"
+      }
+    },
+    "stock_quantity": 80,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "AIM_MATCHBOX_1",
+    "canonical_name": "Aim Safety Matchbox ₹1",
+    "brand": "Wimco",
+    "category": "Matchbox",
+    "variant": "Standard ₹1",
+    "tamil_name": "ஏய்ம் தீப்பெட்டி ₹1",
+    "aliases": [
+      "Aim Matchbox",
+      "Aim theepetti",
+      "Matchbox",
+      "Theepetti"
+    ],
+    "tamil_aliases": [
+      "தீப்பெட்டி",
+      "ஏய்ம் தீப்பெட்டி"
+    ],
+    "retail_unit": "piece",
+    "wholesale_unit": "bundle",
+    "base_unit": "piece",
+    "retail_rate": 1.0,
+    "wholesale_rate": 0.85,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 10,
+        "rate": 8.5,
+        "notes": "1 bundle / kattu = 10 matchboxes"
+      }
+    },
+    "stock_quantity": 500,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "CHEETA_MATCHBOX_1",
+    "canonical_name": "Cheeta Matchbox ₹1",
+    "brand": "Cheeta",
+    "category": "Matchbox",
+    "variant": "Standard ₹1",
+    "tamil_name": "சீட்டா தீப்பெட்டி ₹1",
+    "aliases": [
+      "Cheeta Matchbox",
+      "Cheeta theepetti",
+      "Cheeta"
+    ],
+    "tamil_aliases": [
+      "சீட்டா தீப்பெட்டி",
+      "சீட்டா"
+    ],
+    "retail_unit": "piece",
+    "wholesale_unit": "bundle",
+    "base_unit": "piece",
+    "retail_rate": 1.0,
+    "wholesale_rate": 0.85,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 10,
+        "rate": 8.5,
+        "notes": "1 bundle = 10 matchboxes"
+      }
+    },
+    "stock_quantity": 400,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "HOMELITES_MATCHBOX_3",
+    "canonical_name": "Homelites Big Kitchen Matchbox ₹3",
+    "brand": "ITC",
+    "category": "Matchbox",
+    "variant": "Big ₹3",
+    "tamil_name": "ஹோம்லைட்ஸ் பெரிய தீப்பெட்டி ₹3",
+    "aliases": [
+      "Homelites",
+      "Big Matchbox",
+      "Kitchen Matchbox",
+      "Homelites 3"
+    ],
+    "tamil_aliases": [
+      "ஹோம்லைட்ஸ்",
+      "பெரிய தீப்பெட்டி"
+    ],
+    "retail_unit": "piece",
+    "wholesale_unit": "bundle",
+    "base_unit": "piece",
+    "retail_rate": 3.0,
+    "wholesale_rate": 2.5,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 10,
+        "rate": 25.0,
+        "notes": "1 bundle = 10 matchboxes"
+      }
+    },
+    "stock_quantity": 120,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "BRU_INSTANT_SACHET_2",
+    "canonical_name": "Bru Instant Coffee Sachet ₹2",
+    "brand": "Bru",
+    "category": "Beverages",
+    "variant": "Sachet ₹2",
+    "tamil_name": "புரூ காபி பாக்கெட் ₹2",
+    "aliases": [
+      "Bru 2",
+      "Bru coffee 2",
+      "Bru sachet",
+      "Bru coffee packet"
+    ],
+    "tamil_aliases": [
+      "புரூ 2",
+      "புரூ காபி"
+    ],
+    "retail_unit": "saram",
+    "wholesale_unit": "saram",
+    "base_unit": "saram",
+    "retail_rate": 48.0,
+    "wholesale_rate": 44.0,
+    "conversion_rules": {
+      "saram": {
+        "pieces": 24,
+        "rate": 48.0,
+        "notes": "1 saram = 24 sachets = ₹48"
+      }
+    },
+    "stock_quantity": 80,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "BRU_INSTANT_50G_90",
+    "canonical_name": "Bru Instant Coffee Pouch 50g ₹90",
+    "brand": "Bru",
+    "category": "Beverages",
+    "variant": "Pouch 50g",
+    "tamil_name": "புரூ காபி 50 கிராம் ₹90",
+    "aliases": [
+      "Bru 50g",
+      "Bru coffee 50g",
+      "Bru pouch"
+    ],
+    "tamil_aliases": [
+      "புரூ 50 கிராம்",
+      "புரூ பாக்கெட்"
+    ],
+    "retail_unit": "piece",
+    "wholesale_unit": null,
+    "base_unit": "piece",
+    "retail_rate": 90.0,
+    "wholesale_rate": 84.0,
+    "conversion_rules": {},
+    "stock_quantity": 30,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "RED_LABEL_TEA_SACHET_5",
+    "canonical_name": "Brooke Bond Red Label Tea Sachet ₹5",
+    "brand": "Brooke Bond",
+    "category": "Beverages",
+    "variant": "Sachet ₹5",
+    "tamil_name": "ரெட் லேபிள் டீத்தூள் ₹5",
+    "aliases": [
+      "Red Label 5",
+      "Red Label tea 5",
+      "Tea powder 5"
+    ],
+    "tamil_aliases": [
+      "ரெட் லேபிள் 5",
+      "டீத்தூள் 5"
+    ],
+    "retail_unit": "saram",
+    "wholesale_unit": "saram",
+    "base_unit": "saram",
+    "retail_rate": 80.0,
+    "wholesale_rate": 74.0,
+    "conversion_rules": {
+      "saram": {
+        "pieces": 16,
+        "rate": 80.0,
+        "notes": "1 saram = 16 sachets"
+      }
+    },
+    "stock_quantity": 60,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "RED_LABEL_TEA_100G_45",
+    "canonical_name": "Red Label Tea 100g ₹45",
+    "brand": "Brooke Bond",
+    "category": "Beverages",
+    "variant": "100g Pack",
+    "tamil_name": "ரெட் லேபிள் டீத்தூள் 100 கிராம் ₹45",
+    "aliases": [
+      "Red Label 100g",
+      "Red Label tea packet",
+      "Tea 100g"
+    ],
+    "tamil_aliases": [
+      "ரெட் லேபிள் 100g",
+      "டீத்தூள்"
+    ],
+    "retail_unit": "packet",
+    "wholesale_unit": "bundle",
+    "base_unit": "packet",
+    "retail_rate": 45.0,
+    "wholesale_rate": 41.0,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 10,
+        "rate": 410.0,
+        "notes": "1 bundle = 10 packets"
+      }
+    },
+    "stock_quantity": 40,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "BOOST_SACHET_5",
+    "canonical_name": "Boost Sachet ₹5",
+    "brand": "Boost",
+    "category": "Beverages",
+    "variant": "Sachet ₹5",
+    "tamil_name": "பூஸ்ட் பாக்கெட் ₹5",
+    "aliases": [
+      "Boost 5",
+      "Boost sachet",
+      "Boost packet 5"
+    ],
+    "tamil_aliases": [
+      "பூஸ்ட் 5",
+      "பூஸ்ட்"
+    ],
+    "retail_unit": "saram",
+    "wholesale_unit": "saram",
+    "base_unit": "saram",
+    "retail_rate": 75.0,
+    "wholesale_rate": 70.0,
+    "conversion_rules": {
+      "saram": {
+        "pieces": 15,
+        "rate": 75.0,
+        "notes": "1 saram = 15 sachets"
+      }
+    },
+    "stock_quantity": 50,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "HORLICKS_SACHET_5",
+    "canonical_name": "Horlicks Sachet ₹5",
+    "brand": "Horlicks",
+    "category": "Beverages",
+    "variant": "Sachet ₹5",
+    "tamil_name": "ஹார்லிக்ஸ் பாக்கெட் ₹5",
+    "aliases": [
+      "Horlicks 5",
+      "Horlicks sachet",
+      "Horlicks packet 5"
+    ],
+    "tamil_aliases": [
+      "ஹார்லிக்ஸ் 5",
+      "ஹார்லிக்ஸ்"
+    ],
+    "retail_unit": "saram",
+    "wholesale_unit": "saram",
+    "base_unit": "saram",
+    "retail_rate": 75.0,
+    "wholesale_rate": 70.0,
+    "conversion_rules": {
+      "saram": {
+        "pieces": 15,
+        "rate": 75.0,
+        "notes": "1 saram = 15 sachets"
+      }
+    },
+    "stock_quantity": 50,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "DAIRY_MILK_10",
+    "canonical_name": "Cadbury Dairy Milk ₹10",
+    "brand": "Cadbury",
+    "category": "Chocolates",
+    "variant": "Standard ₹10",
+    "tamil_name": "டெய்ரி மில்க் ₹10",
+    "aliases": [
+      "Dairy Milk 10",
+      "Dairy Milk",
+      "Cadbury 10",
+      "Dairy Milk chocolate"
+    ],
+    "tamil_aliases": [
+      "டெய்ரி மில்க் 10",
+      "டெய்ரி மில்க்"
+    ],
+    "retail_unit": "piece",
+    "wholesale_unit": "bundle",
+    "base_unit": "piece",
+    "retail_rate": 10.0,
+    "wholesale_rate": 9.2,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 24,
+        "rate": 220.8,
+        "notes": "1 box = 24 chocolates"
+      }
+    },
+    "stock_quantity": 120,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "DAIRY_MILK_20",
+    "canonical_name": "Cadbury Dairy Milk ₹20",
+    "brand": "Cadbury",
+    "category": "Chocolates",
+    "variant": "Standard ₹20",
+    "tamil_name": "டெய்ரி மில்க் ₹20",
+    "aliases": [
+      "Dairy Milk 20",
+      "Cadbury 20",
+      "Dairy Milk big"
+    ],
+    "tamil_aliases": [
+      "டெய்ரி மில்க் 20"
+    ],
+    "retail_unit": "piece",
+    "wholesale_unit": "bundle",
+    "base_unit": "piece",
+    "retail_rate": 20.0,
+    "wholesale_rate": 18.4,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 24,
+        "rate": 441.6,
+        "notes": "1 box = 24 chocolates"
+      }
+    },
+    "stock_quantity": 80,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "5_STAR_10",
+    "canonical_name": "Cadbury 5 Star ₹10",
+    "brand": "Cadbury",
+    "category": "Chocolates",
+    "variant": "Standard ₹10",
+    "tamil_name": "ஃபைவ் ஸ்டார் ₹10",
+    "aliases": [
+      "5 Star",
+      "Five Star",
+      "5 Star 10",
+      "Five Star chocolate"
+    ],
+    "tamil_aliases": [
+      "ஃபைவ் ஸ்டார் 10",
+      "பைவ் ஸ்டார்"
+    ],
+    "retail_unit": "piece",
+    "wholesale_unit": "bundle",
+    "base_unit": "piece",
+    "retail_rate": 10.0,
+    "wholesale_rate": 9.2,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 24,
+        "rate": 220.8,
+        "notes": "1 box = 24 chocolates"
+      }
+    },
+    "stock_quantity": 90,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "KITKAT_10",
+    "canonical_name": "Nestle KitKat ₹10",
+    "brand": "Nestle",
+    "category": "Chocolates",
+    "variant": "2 Finger ₹10",
+    "tamil_name": "கிட்கேட் ₹10",
+    "aliases": [
+      "KitKat",
+      "KitKat 10",
+      "Kit Kat"
+    ],
+    "tamil_aliases": [
+      "கிட்கேட் 10",
+      "கிட்கேட்"
+    ],
+    "retail_unit": "piece",
+    "wholesale_unit": "bundle",
+    "base_unit": "piece",
+    "retail_rate": 10.0,
+    "wholesale_rate": 9.2,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 24,
+        "rate": 220.8,
+        "notes": "1 box = 24 chocolates"
+      }
+    },
+    "stock_quantity": 100,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "MUNCH_5",
+    "canonical_name": "Nestle Munch ₹5",
+    "brand": "Nestle",
+    "category": "Chocolates",
+    "variant": "Mini ₹5",
+    "tamil_name": "மஞ்ச் ₹5",
+    "aliases": [
+      "Munch 5",
+      "Munch",
+      "Munch chocolate"
+    ],
+    "tamil_aliases": [
+      "மஞ்ச் 5",
+      "மஞ்ச்"
+    ],
+    "retail_unit": "piece",
+    "wholesale_unit": "bundle",
+    "base_unit": "piece",
+    "retail_rate": 5.0,
+    "wholesale_rate": 4.5,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 30,
+        "rate": 135.0,
+        "notes": "1 box = 30 chocolates"
+      }
+    },
+    "stock_quantity": 150,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "ECLAIRS_1",
+    "canonical_name": "Cadbury Choclairs Gold ₹1",
+    "brand": "Cadbury",
+    "category": "Chocolates",
+    "variant": "Candy ₹1",
+    "tamil_name": "எக்ளேர்ஸ் மிட்டாய் ₹1",
+    "aliases": [
+      "Eclairs",
+      "Choclairs",
+      "Eclairs mittai",
+      "Chocolate mittai"
+    ],
+    "tamil_aliases": [
+      "எக்ளேர்ஸ்",
+      "மிட்டாய்"
+    ],
+    "retail_unit": "piece",
+    "wholesale_unit": "bundle",
+    "base_unit": "piece",
+    "retail_rate": 1.0,
+    "wholesale_rate": 0.8,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 100,
+        "rate": 80.0,
+        "notes": "1 dabba = 100 pieces"
+      }
+    },
+    "stock_quantity": 500,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "MELODY_1",
+    "canonical_name": "Parle Melody Chocolaty ₹1",
+    "brand": "Parle",
+    "category": "Chocolates",
+    "variant": "Candy ₹1",
+    "tamil_name": "மெலடி மிட்டாய் ₹1",
+    "aliases": [
+      "Melody",
+      "Melody mittai",
+      "Melody 1"
+    ],
+    "tamil_aliases": [
+      "மெலடி",
+      "மெலடி மிட்டாய்"
+    ],
+    "retail_unit": "piece",
+    "wholesale_unit": "bundle",
+    "base_unit": "piece",
+    "retail_rate": 1.0,
+    "wholesale_rate": 0.8,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 100,
+        "rate": 80.0,
+        "notes": "1 jar = 100 pieces"
+      }
+    },
+    "stock_quantity": 400,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "POLO_RING_5",
+    "canonical_name": "Nestle Polo Mint Roll ₹5",
+    "brand": "Nestle",
+    "category": "Chocolates",
+    "variant": "Roll ₹5",
+    "tamil_name": "போலோ புதினா ₹5",
+    "aliases": [
+      "Polo",
+      "Polo roll",
+      "Polo 5",
+      "Polo mint"
+    ],
+    "tamil_aliases": [
+      "போலோ 5",
+      "போலோ"
+    ],
+    "retail_unit": "piece",
+    "wholesale_unit": "bundle",
+    "base_unit": "piece",
+    "retail_rate": 5.0,
+    "wholesale_rate": 4.2,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 20,
+        "rate": 84.0,
+        "notes": "1 box = 20 rolls"
+      }
+    },
+    "stock_quantity": 100,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "HAMAM_SOAP_100G_38",
+    "canonical_name": "Hamam Neem Soap 100g ₹38",
+    "brand": "Hamam",
+    "category": "Personal Care",
+    "variant": "100g Bar",
+    "tamil_name": "ஹமாம் சோப் 100 கிராம் ₹38",
+    "aliases": [
+      "Hamam",
+      "Hamam soap",
+      "Hamam 100g",
+      "Hamam soap bar"
+    ],
+    "tamil_aliases": [
+      "ஹமாம் சோப்",
+      "ஹமாம்"
+    ],
+    "retail_unit": "piece",
+    "wholesale_unit": "bundle",
+    "base_unit": "piece",
+    "retail_rate": 38.0,
+    "wholesale_rate": 34.0,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 4,
+        "rate": 136.0,
+        "notes": "Multipack 4 soaps = ₹136"
+      }
+    },
+    "stock_quantity": 120,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "LIFEBUOY_SOAP_TOTAL_10",
+    "canonical_name": "Lifebuoy Total Soap Small ₹10",
+    "brand": "Lifebuoy",
+    "category": "Personal Care",
+    "variant": "Small ₹10",
+    "tamil_name": "லைஃப்பாய் சோப் சிறியது ₹10",
+    "aliases": [
+      "Lifebuoy 10",
+      "Lifebuoy soap 10",
+      "Small Lifebuoy"
+    ],
+    "tamil_aliases": [
+      "லைஃப்பாய் 10",
+      "லைஃப்பாய்"
+    ],
+    "retail_unit": "piece",
+    "wholesale_unit": "bundle",
+    "base_unit": "piece",
+    "retail_rate": 10.0,
+    "wholesale_rate": 9.0,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 24,
+        "rate": 216.0,
+        "notes": "1 box = 24 bars"
+      }
+    },
+    "stock_quantity": 150,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "CINTHOL_ORIGINAL_SOAP_45",
+    "canonical_name": "Godrej Cinthol Original Soap 100g ₹45",
+    "brand": "Godrej",
+    "category": "Personal Care",
+    "variant": "100g Bar",
+    "tamil_name": "சிந்தால் சோப் ₹45",
+    "aliases": [
+      "Cinthol",
+      "Cinthol soap",
+      "Cinthol original"
+    ],
+    "tamil_aliases": [
+      "சிந்தால் சோப்",
+      "சிந்தால்"
+    ],
+    "retail_unit": "piece",
+    "wholesale_unit": "bundle",
+    "base_unit": "piece",
+    "retail_rate": 45.0,
+    "wholesale_rate": 40.0,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 3,
+        "rate": 120.0,
+        "notes": "Buy 3 pack = ₹120"
+      }
+    },
+    "stock_quantity": 70,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "DETTOL_SOAP_ORIGINAL_35",
+    "canonical_name": "Dettol Original Soap 75g ₹35",
+    "brand": "Dettol",
+    "category": "Personal Care",
+    "variant": "75g Bar",
+    "tamil_name": "டெட்டால் சோப் ₹35",
+    "aliases": [
+      "Dettol",
+      "Dettol soap",
+      "Dettol 35"
+    ],
+    "tamil_aliases": [
+      "டெட்டால் சோப்",
+      "டெட்டால்"
+    ],
+    "retail_unit": "piece",
+    "wholesale_unit": "bundle",
+    "base_unit": "piece",
+    "retail_rate": 35.0,
+    "wholesale_rate": 31.0,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 4,
+        "rate": 124.0,
+        "notes": "1 pack of 4 = ₹124"
+      }
+    },
+    "stock_quantity": 80,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "CLINIC_PLUS_SACHET_1",
+    "canonical_name": "Clinic Plus Strong & Long Shampoo Sachet ₹1",
+    "brand": "Clinic Plus",
+    "category": "Personal Care",
+    "variant": "Sachet ₹1",
+    "tamil_name": "கிளினிக் பிளஸ் ஷாம்பு ₹1",
+    "aliases": [
+      "Clinic Plus 1",
+      "Clinic Plus sachet",
+      "Clinic Plus shampoo",
+      "Clinic Plus"
+    ],
+    "tamil_aliases": [
+      "கிளினிக் பிளஸ்",
+      "கிளினிக் பிளஸ் 1"
+    ],
+    "retail_unit": "saram",
+    "wholesale_unit": "saram",
+    "base_unit": "saram",
+    "retail_rate": 24.0,
+    "wholesale_rate": 20.0,
+    "conversion_rules": {
+      "saram": {
+        "pieces": 24,
+        "rate": 24.0,
+        "notes": "1 saram = 24 sachets = ₹24"
+      }
+    },
+    "stock_quantity": 100,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "SUNSILK_BLACK_SACHET_2",
+    "canonical_name": "Sunsilk Stunning Black Shine Shampoo Sachet ₹2",
+    "brand": "Sunsilk",
+    "category": "Personal Care",
+    "variant": "Black Sachet ₹2",
+    "tamil_name": "சன்சில்க் கருப்பு ஷாம்பு ₹2",
+    "aliases": [
+      "Sunsilk Black",
+      "Sunsilk 2",
+      "Black Sunsilk",
+      "Sunsilk sachet"
+    ],
+    "tamil_aliases": [
+      "சன்சில்க் 2",
+      "சன்சில்க்"
+    ],
+    "retail_unit": "saram",
+    "wholesale_unit": "saram",
+    "base_unit": "saram",
+    "retail_rate": 48.0,
+    "wholesale_rate": 42.0,
+    "conversion_rules": {
+      "saram": {
+        "pieces": 24,
+        "rate": 48.0,
+        "notes": "1 saram = 24 sachets = ₹48"
+      }
+    },
+    "stock_quantity": 90,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "HEAD_SHOULDERS_SACHET_3",
+    "canonical_name": "Head & Shoulders Anti-Dandruff Sachet ₹3",
+    "brand": "Head & Shoulders",
+    "category": "Personal Care",
+    "variant": "Sachet ₹3",
+    "tamil_name": "ஹெட் அண்ட் ஷோல்டர்ஸ் ₹3",
+    "aliases": [
+      "Head and Shoulders",
+      "H&S sachet",
+      "Head Shoulders 3"
+    ],
+    "tamil_aliases": [
+      "ஹெட் அண்ட் ஷோல்டர்ஸ்"
+    ],
+    "retail_unit": "saram",
+    "wholesale_unit": "saram",
+    "base_unit": "saram",
+    "retail_rate": 48.0,
+    "wholesale_rate": 42.0,
+    "conversion_rules": {
+      "saram": {
+        "pieces": 16,
+        "rate": 48.0,
+        "notes": "1 saram = 16 sachets = ₹48"
+      }
+    },
+    "stock_quantity": 60,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "COLGATE_STRONG_TEETH_10",
+    "canonical_name": "Colgate Strong Teeth Toothpaste ₹10",
+    "brand": "Colgate",
+    "category": "Personal Care",
+    "variant": "Small ₹10",
+    "tamil_name": "கோல்கேட் பேஸ்ட் சிறியது ₹10",
+    "aliases": [
+      "Colgate 10",
+      "Colgate paste 10",
+      "Colgate small"
+    ],
+    "tamil_aliases": [
+      "கோல்கேட் 10",
+      "கோல்கேட்"
+    ],
+    "retail_unit": "piece",
+    "wholesale_unit": "bundle",
+    "base_unit": "piece",
+    "retail_rate": 10.0,
+    "wholesale_rate": 9.0,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 12,
+        "rate": 108.0,
+        "notes": "1 bundle = 12 tubes"
+      }
+    },
+    "stock_quantity": 110,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "COLGATE_STRONG_TEETH_100G_60",
+    "canonical_name": "Colgate Strong Teeth Toothpaste 100g ₹60",
+    "brand": "Colgate",
+    "category": "Personal Care",
+    "variant": "100g Tube",
+    "tamil_name": "கோல்கேட் பேஸ்ட் 100 கிராம் ₹60",
+    "aliases": [
+      "Colgate 100g",
+      "Colgate big paste",
+      "Colgate 60"
+    ],
+    "tamil_aliases": [
+      "கோல்கேட் 100g",
+      "கோல்கேட் பெரியது"
+    ],
+    "retail_unit": "piece",
+    "wholesale_unit": "dozen",
+    "base_unit": "piece",
+    "retail_rate": 60.0,
+    "wholesale_rate": 54.0,
+    "conversion_rules": {
+      "dozen": {
+        "pieces": 12,
+        "rate": 648.0,
+        "notes": "1 dozen = 12 tubes"
+      }
+    },
+    "stock_quantity": 40,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "RIN_BAR_10",
+    "canonical_name": "Rin Detergent Bar ₹10",
+    "brand": "Rin",
+    "category": "Household",
+    "variant": "125g Bar ₹10",
+    "tamil_name": "ரின் சோப் ₹10",
+    "aliases": [
+      "Rin bar",
+      "Rin soap 10",
+      "Rin 10",
+      "Rin bar 10"
+    ],
+    "tamil_aliases": [
+      "ரின் சோப் 10",
+      "ரின்"
+    ],
+    "retail_unit": "piece",
+    "wholesale_unit": "bundle",
+    "base_unit": "piece",
+    "retail_rate": 10.0,
+    "wholesale_rate": 9.0,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 20,
+        "rate": 180.0,
+        "notes": "1 bundle = 20 bars"
+      }
+    },
+    "stock_quantity": 140,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "SURF_EXCEL_SACHET_10",
+    "canonical_name": "Surf Excel Easy Wash Sachet ₹10",
+    "brand": "Surf Excel",
+    "category": "Household",
+    "variant": "Sachet ₹10",
+    "tamil_name": "சர்ப் எக்செல் பாக்கெட் ₹10",
+    "aliases": [
+      "Surf Excel 10",
+      "Surf Excel sachet",
+      "Surf 10",
+      "Surf packet 10"
+    ],
+    "tamil_aliases": [
+      "சர்ப் எக்செல் 10",
+      "சர்ப் 10"
+    ],
+    "retail_unit": "saram",
+    "wholesale_unit": "saram",
+    "base_unit": "saram",
+    "retail_rate": 100.0,
+    "wholesale_rate": 92.0,
+    "conversion_rules": {
+      "saram": {
+        "pieces": 10,
+        "rate": 100.0,
+        "notes": "1 saram = 10 sachets = ₹100"
+      }
+    },
+    "stock_quantity": 70,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "VIM_BAR_10",
+    "canonical_name": "Vim Dishwash Bar ₹10",
+    "brand": "Vim",
+    "category": "Household",
+    "variant": "Bar ₹10",
+    "tamil_name": "விம் பார் பாத்திரம் சோப் ₹10",
+    "aliases": [
+      "Vim bar",
+      "Vim soap",
+      "Vim 10",
+      "Vim bar 10"
+    ],
+    "tamil_aliases": [
+      "விம் பார் 10",
+      "விம்"
+    ],
+    "retail_unit": "piece",
+    "wholesale_unit": "bundle",
+    "base_unit": "piece",
+    "retail_rate": 10.0,
+    "wholesale_rate": 9.0,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 24,
+        "rate": 216.0,
+        "notes": "1 box = 24 bars"
+      }
+    },
+    "stock_quantity": 130,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "WHEEL_WASHING_POWDER_500G_35",
+    "canonical_name": "Active Wheel Washing Powder 500g ₹35",
+    "brand": "Wheel",
+    "category": "Household",
+    "variant": "500g Pack",
+    "tamil_name": "வீல் சோப் தூள் 500 கிராம் ₹35",
+    "aliases": [
+      "Wheel powder",
+      "Wheel 500g",
+      "Wheel detergent",
+      "Wheel 35"
+    ],
+    "tamil_aliases": [
+      "வீல் பவுடர்",
+      "வீல் 500g"
+    ],
+    "retail_unit": "packet",
+    "wholesale_unit": "bundle",
+    "base_unit": "packet",
+    "retail_rate": 35.0,
+    "wholesale_rate": 31.0,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 12,
+        "rate": 372.0,
+        "notes": "1 bundle = 12 packets"
+      }
+    },
+    "stock_quantity": 50,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "AACHI_CHILLI_POWDER_50G_20",
+    "canonical_name": "Aachi Chilli Powder 50g ₹20",
+    "brand": "Aachi",
+    "category": "Spices",
+    "variant": "50g Pack",
+    "tamil_name": "ஆச்சி மிளகாய் தூள் 50g ₹20",
+    "aliases": [
+      "Aachi chilli powder",
+      "Milagai thool",
+      "Aachi milagai 50g",
+      "Chilli powder 20"
+    ],
+    "tamil_aliases": [
+      "ஆச்சி மிளகாய் தூள்",
+      "மிளகாய் தூள்"
+    ],
+    "retail_unit": "packet",
+    "wholesale_unit": "dozen",
+    "base_unit": "packet",
+    "retail_rate": 20.0,
+    "wholesale_rate": 17.5,
+    "conversion_rules": {
+      "dozen": {
+        "pieces": 12,
+        "rate": 210.0,
+        "notes": "1 dozen = 12 packets"
+      }
+    },
+    "stock_quantity": 60,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "SAKTHI_TURMERIC_POWDER_50G_18",
+    "canonical_name": "Sakthi Turmeric Powder 50g ₹18",
+    "brand": "Sakthi",
+    "category": "Spices",
+    "variant": "50g Pack",
+    "tamil_name": "சக்தி மஞ்சள் தூள் 50g ₹18",
+    "aliases": [
+      "Sakthi turmeric",
+      "Manjal thool",
+      "Turmeric powder",
+      "Sakthi manjal"
+    ],
+    "tamil_aliases": [
+      "சக்தி மஞ்சள் தூள்",
+      "மஞ்சள் தூள்"
+    ],
+    "retail_unit": "packet",
+    "wholesale_unit": "dozen",
+    "base_unit": "packet",
+    "retail_rate": 18.0,
+    "wholesale_rate": 15.5,
+    "conversion_rules": {
+      "dozen": {
+        "pieces": 12,
+        "rate": 186.0,
+        "notes": "1 dozen = 12 packets"
+      }
+    },
+    "stock_quantity": 70,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "TATA_SALT_1KG_28",
+    "canonical_name": "Tata Salt 1kg ₹28",
+    "brand": "Tata",
+    "category": "Staples",
+    "variant": "1kg Pouch",
+    "tamil_name": "டாடா உப்பு 1 கிலோ ₹28",
+    "aliases": [
+      "Tata Salt",
+      "Tata uppu",
+      "Salt 1kg",
+      "Uppu packet"
+    ],
+    "tamil_aliases": [
+      "டாடா உப்பு",
+      "உப்பு பாக்கெட்"
+    ],
+    "retail_unit": "packet",
+    "wholesale_unit": "bundle",
+    "base_unit": "packet",
+    "retail_rate": 28.0,
+    "wholesale_rate": 25.0,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 25,
+        "rate": 625.0,
+        "notes": "1 bag = 25 packets"
+      }
+    },
+    "stock_quantity": 80,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "CLASSIC_REGULAR_17",
+    "canonical_name": "Classic Regular",
+    "brand": "ITC",
+    "category": "Tobacco",
+    "variant": "Regular",
+    "tamil_name": "கிளாசிக் ரெகுலர்",
+    "aliases": [
+      "Classic",
+      "Classic Regular",
+      "Classic blue"
+    ],
+    "tamil_aliases": [
+      "கிளாசிக்"
+    ],
+    "retail_unit": "piece",
+    "wholesale_unit": "packet",
+    "base_unit": "piece",
+    "retail_rate": 17.0,
+    "wholesale_rate": 16.0,
+    "conversion_rules": {
+      "packet": {
+        "pieces": 10,
+        "rate": 165.0,
+        "notes": "1 packet = 10 pieces = ₹165"
+      }
+    },
+    "stock_quantity": 100,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "GOLD_FLAKE_KINGS_18",
+    "canonical_name": "Gold Flake Kings",
+    "brand": "ITC",
+    "category": "Tobacco",
+    "variant": "Kings",
+    "tamil_name": "கோல்ட் ஃப்ளேக் கிங்ஸ்",
+    "aliases": [
+      "Gold Flake Kings",
+      "GF Kings",
+      "Gold Flake big"
+    ],
+    "tamil_aliases": [
+      "கோல்ட் ஃப்ளேக் கிங்ஸ்"
+    ],
+    "retail_unit": "piece",
+    "wholesale_unit": "packet",
+    "base_unit": "piece",
+    "retail_rate": 18.0,
+    "wholesale_rate": 17.0,
+    "conversion_rules": {
+      "packet": {
+        "pieces": 10,
+        "rate": 175.0,
+        "notes": "1 packet = 10 pieces = ₹175"
+      }
+    },
+    "stock_quantity": 90,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "BRISTOL_10",
+    "canonical_name": "Bristol",
+    "brand": "ITC",
+    "category": "Tobacco",
+    "variant": "Standard",
+    "tamil_name": "பிரிஸ்டல்",
+    "aliases": [
+      "Bristol",
+      "Bristol packet"
+    ],
+    "tamil_aliases": [
+      "பிரிஸ்டல்"
+    ],
+    "retail_unit": "piece",
+    "wholesale_unit": "packet",
+    "base_unit": "piece",
+    "retail_rate": 10.0,
+    "wholesale_rate": 9.0,
+    "conversion_rules": {
+      "packet": {
+        "pieces": 10,
+        "rate": 95.0,
+        "notes": "1 packet = 10 pieces"
+      }
+    },
+    "stock_quantity": 80,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "NAVY_CUT_11",
+    "canonical_name": "Wills Navy Cut",
+    "brand": "ITC",
+    "category": "Tobacco",
+    "variant": "Navy Cut",
+    "tamil_name": "நேவி கட்",
+    "aliases": [
+      "Navy Cut",
+      "Wills Navy Cut",
+      "Navy cut small"
+    ],
+    "tamil_aliases": [
+      "நேவி கட்"
+    ],
+    "retail_unit": "piece",
+    "wholesale_unit": "packet",
+    "base_unit": "piece",
+    "retail_rate": 11.0,
+    "wholesale_rate": 10.0,
+    "conversion_rules": {
+      "packet": {
+        "pieces": 10,
+        "rate": 105.0,
+        "notes": "1 packet = 10 pieces"
+      }
+    },
+    "stock_quantity": 75,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "CHARMINAR_5",
+    "canonical_name": "Charminar",
+    "brand": "VST",
+    "category": "Tobacco",
+    "variant": "Regular",
+    "tamil_name": "சார்மினார்",
+    "aliases": [
+      "Charminar",
+      "Charminar packet"
+    ],
+    "tamil_aliases": [
+      "சார்மினார்"
+    ],
+    "retail_unit": "piece",
+    "wholesale_unit": "packet",
+    "base_unit": "piece",
+    "retail_rate": 5.0,
+    "wholesale_rate": 4.5,
+    "conversion_rules": {
+      "packet": {
+        "pieces": 10,
+        "rate": 45.0,
+        "notes": "1 packet = 10 pieces"
+      }
+    },
+    "stock_quantity": 110,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "GANESH_BEEDI_501",
+    "canonical_name": "501 Mangalore Ganesh Beedi",
+    "brand": "Ganesh Beedi",
+    "category": "Tobacco",
+    "variant": "501",
+    "tamil_name": "501 கணேஷ் பீடி",
+    "aliases": [
+      "501 Beedi",
+      "Ganesh Beedi",
+      "501",
+      "Ganesh beedi bundle"
+    ],
+    "tamil_aliases": [
+      "501 பீடி",
+      "கணேஷ் பீடி"
+    ],
+    "retail_unit": "bundle",
+    "wholesale_unit": "bundle",
+    "base_unit": "bundle",
+    "retail_rate": 28.0,
+    "wholesale_rate": 25.0,
+    "conversion_rules": {},
+    "stock_quantity": 150,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "MONACO_10",
+    "canonical_name": "Parle Monaco Salted Crackers ₹10",
+    "brand": "Parle",
+    "category": "Biscuits",
+    "variant": "Salted ₹10",
+    "tamil_name": "மொனாகோ பிஸ்கட் ₹10",
+    "aliases": [
+      "Monaco",
+      "Monaco 10",
+      "Monaco biscuit"
+    ],
+    "tamil_aliases": [
+      "மொனாகோ 10",
+      "மொனாகோ"
+    ],
+    "retail_unit": "packet",
+    "wholesale_unit": "bundle",
+    "base_unit": "packet",
+    "retail_rate": 10.0,
+    "wholesale_rate": 9.0,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 24,
+        "rate": 216.0,
+        "notes": "1 bundle = 24 packets"
+      }
+    },
+    "stock_quantity": 90,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "HIDE_AND_SEEK_30",
+    "canonical_name": "Parle Hide & Seek Choco Chip ₹30",
+    "brand": "Parle",
+    "category": "Biscuits",
+    "variant": "Choco Chip ₹30",
+    "tamil_name": "ஹைட் அண்ட் சீக் ₹30",
+    "aliases": [
+      "Hide and Seek",
+      "Hide & Seek",
+      "Hide and seek 30"
+    ],
+    "tamil_aliases": [
+      "ஹைட் அண்ட் சீக்"
+    ],
+    "retail_unit": "packet",
+    "wholesale_unit": "bundle",
+    "base_unit": "packet",
+    "retail_rate": 30.0,
+    "wholesale_rate": 27.0,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 12,
+        "rate": 324.0,
+        "notes": "1 bundle = 12 packets"
+      }
+    },
+    "stock_quantity": 60,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "OREO_VANILLA_10",
+    "canonical_name": "Cadbury Oreo Vanilla ₹10",
+    "brand": "Cadbury",
+    "category": "Biscuits",
+    "variant": "Vanilla ₹10",
+    "tamil_name": "ஓரியோ பிஸ்கட் ₹10",
+    "aliases": [
+      "Oreo",
+      "Oreo 10",
+      "Oreo biscuit"
+    ],
+    "tamil_aliases": [
+      "ஓரியோ 10",
+      "ஓரியோ"
+    ],
+    "retail_unit": "packet",
+    "wholesale_unit": "bundle",
+    "base_unit": "packet",
+    "retail_rate": 10.0,
+    "wholesale_rate": 9.2,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 24,
+        "rate": 220.8,
+        "notes": "1 bundle = 24 packets"
+      }
+    },
+    "stock_quantity": 110,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "TIGER_GLUCOSE_5",
+    "canonical_name": "Britannia Tiger Glucose ₹5",
+    "brand": "Britannia",
+    "category": "Biscuits",
+    "variant": "Glucose ₹5",
+    "tamil_name": "டைகர் குளுக்கோஸ் ₹5",
+    "aliases": [
+      "Tiger",
+      "Tiger biscuit",
+      "Tiger 5"
+    ],
+    "tamil_aliases": [
+      "டைகர் 5",
+      "டைகர்"
+    ],
+    "retail_unit": "packet",
+    "wholesale_unit": "bundle",
+    "base_unit": "packet",
+    "retail_rate": 5.0,
+    "wholesale_rate": 4.5,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 24,
+        "rate": 108.0,
+        "notes": "1 bundle = 24 packets"
+      }
+    },
+    "stock_quantity": 150,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "NUTRICEHOICE_DIGESTIVE_25",
+    "canonical_name": "Britannia NutriChoice Digestive ₹25",
+    "brand": "Britannia",
+    "category": "Biscuits",
+    "variant": "Digestive 100g",
+    "tamil_name": "நியூட்ரி சாய்ஸ் ₹25",
+    "aliases": [
+      "Nutrichoice",
+      "Digestive biscuit",
+      "Nutri choice"
+    ],
+    "tamil_aliases": [
+      "நியூட்ரி சாய்ஸ்"
+    ],
+    "retail_unit": "packet",
+    "wholesale_unit": "bundle",
+    "base_unit": "packet",
+    "retail_rate": 25.0,
+    "wholesale_rate": 22.5,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 12,
+        "rate": 270.0,
+        "notes": "1 bundle = 12 packets"
+      }
+    },
+    "stock_quantity": 40,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "LAYS_SPANISH_TOMATO_10",
+    "canonical_name": "Lay's Spanish Tomato Tango ₹10",
+    "brand": "Lay's",
+    "category": "Snacks",
+    "variant": "Red ₹10",
+    "tamil_name": "லேஸ் சிவப்பு நிறம் பத்து ரூபாய்",
+    "aliases": [
+      "Lays Red 10",
+      "Lays Tomato 10",
+      "Tomato Lays",
+      "Red Lays"
+    ],
+    "tamil_aliases": [
+      "லேஸ் தக்காளி 10",
+      "லேஸ் சிவப்பு"
+    ],
+    "retail_unit": "saram",
+    "wholesale_unit": "saram",
+    "base_unit": "saram",
+    "retail_rate": 110.0,
+    "wholesale_rate": 102.0,
+    "conversion_rules": {
+      "saram": {
+        "pieces": 16,
+        "rate": 110.0,
+        "notes": "1 saram = 16 packets"
+      }
+    },
+    "stock_quantity": 45,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "KURKURE_CHILLI_CHATKA_10",
+    "canonical_name": "Kurkure Chilli Chatka ₹10",
+    "brand": "Kurkure",
+    "category": "Snacks",
+    "variant": "Chilli ₹10",
+    "tamil_name": "குர்குரே சில்லி சாட்கா ₹10",
+    "aliases": [
+      "Kurkure Chilli",
+      "Kurkure green",
+      "Chilli Chatka"
+    ],
+    "tamil_aliases": [
+      "குர்குரே சில்லி"
+    ],
+    "retail_unit": "saram",
+    "wholesale_unit": "saram",
+    "base_unit": "saram",
+    "retail_rate": 110.0,
+    "wholesale_rate": 102.0,
+    "conversion_rules": {
+      "saram": {
+        "pieces": 16,
+        "rate": 110.0,
+        "notes": "1 saram = 16 packets"
+      }
+    },
+    "stock_quantity": 40,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "UNCLE_CHIPPS_10",
+    "canonical_name": "Uncle Chipps Spicy Treat ₹10",
+    "brand": "Uncle Chipps",
+    "category": "Snacks",
+    "variant": "Spicy ₹10",
+    "tamil_name": "அங்கிள் சிப்ஸ் ₹10",
+    "aliases": [
+      "Uncle Chipps",
+      "Uncle chips",
+      "Uncle chips 10"
+    ],
+    "tamil_aliases": [
+      "அங்கிள் சிப்ஸ் 10",
+      "அங்கிள் சிப்ஸ்"
+    ],
+    "retail_unit": "saram",
+    "wholesale_unit": "saram",
+    "base_unit": "saram",
+    "retail_rate": 110.0,
+    "wholesale_rate": 102.0,
+    "conversion_rules": {
+      "saram": {
+        "pieces": 16,
+        "rate": 110.0,
+        "notes": "1 saram = 16 packets"
+      }
+    },
+    "stock_quantity": 30,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "HALDIRAMS_MOONG_DAL_10",
+    "canonical_name": "Haldiram's Moong Dal ₹10",
+    "brand": "Haldiram",
+    "category": "Snacks",
+    "variant": "Moong Dal ₹10",
+    "tamil_name": "ஹல்திராம் பாசிப்பருப்பு ₹10",
+    "aliases": [
+      "Moong Dal 10",
+      "Haldiram Moong Dal",
+      "Moong Dal packet"
+    ],
+    "tamil_aliases": [
+      "மூங் தால் 10",
+      "பாசிப்பருப்பு 10"
+    ],
+    "retail_unit": "packet",
+    "wholesale_unit": "bundle",
+    "base_unit": "packet",
+    "retail_rate": 10.0,
+    "wholesale_rate": 9.0,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 20,
+        "rate": 180.0,
+        "notes": "1 bundle = 20 packets"
+      }
+    },
+    "stock_quantity": 70,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "BOVONTO_500ML_35",
+    "canonical_name": "Bovonto Soft Drink 500ml ₹35",
+    "brand": "Bovonto",
+    "category": "Beverages",
+    "variant": "500ml Pet Bottle",
+    "tamil_name": "போவோண்டோ கூல்ட்ரிங்க்ஸ் 500 மிலி ₹35",
+    "aliases": [
+      "Bovonto",
+      "Bovonto 500ml",
+      "Bovonto bottle",
+      "Bovonto 35"
+    ],
+    "tamil_aliases": [
+      "போவோண்டோ",
+      "போவோண்டோ 500ml"
+    ],
+    "retail_unit": "piece",
+    "wholesale_unit": "bundle",
+    "base_unit": "piece",
+    "retail_rate": 35.0,
+    "wholesale_rate": 31.0,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 24,
+        "rate": 744.0,
+        "notes": "1 crate/case = 24 bottles"
+      }
+    },
+    "stock_quantity": 48,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "FROOTI_10",
+    "canonical_name": "Frooti Mango Drink Tetra 125ml ₹10",
+    "brand": "Frooti",
+    "category": "Beverages",
+    "variant": "Tetra 125ml",
+    "tamil_name": "ஃப்ரூட்டி மாம்பழ ஜூஸ் ₹10",
+    "aliases": [
+      "Frooti",
+      "Frooti 10",
+      "Frooti tetra",
+      "Mango Frooti"
+    ],
+    "tamil_aliases": [
+      "ஃப்ரூட்டி 10",
+      "ஃப்ரூட்டி"
+    ],
+    "retail_unit": "piece",
+    "wholesale_unit": "bundle",
+    "base_unit": "piece",
+    "retail_rate": 10.0,
+    "wholesale_rate": 8.8,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 30,
+        "rate": 264.0,
+        "notes": "1 tray = 30 tetra packs"
+      }
+    },
+    "stock_quantity": 90,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "MAA_MANGO_10",
+    "canonical_name": "Maa Mango Drink Tetra 150ml ₹10",
+    "brand": "Maa",
+    "category": "Beverages",
+    "variant": "Tetra 150ml",
+    "tamil_name": "மா ஜூஸ் ₹10",
+    "aliases": [
+      "Maa",
+      "Maa juice",
+      "Maa 10",
+      "Maa mango"
+    ],
+    "tamil_aliases": [
+      "மா ஜூஸ் 10",
+      "மா ஜூஸ்"
+    ],
+    "retail_unit": "piece",
+    "wholesale_unit": "bundle",
+    "base_unit": "piece",
+    "retail_rate": 10.0,
+    "wholesale_rate": 8.8,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 30,
+        "rate": 264.0,
+        "notes": "1 tray = 30 tetra packs"
+      }
+    },
+    "stock_quantity": 60,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "STING_ENERGY_20",
+    "canonical_name": "Sting Energy Drink 250ml ₹20",
+    "brand": "Sting",
+    "category": "Beverages",
+    "variant": "250ml Pet",
+    "tamil_name": "ஸ்டிங் எனர்ஜி ட்ரிங்க் ₹20",
+    "aliases": [
+      "Sting",
+      "Sting 20",
+      "Sting bottle",
+      "Red Sting"
+    ],
+    "tamil_aliases": [
+      "ஸ்டிங் 20",
+      "ஸ்டிங்"
+    ],
+    "retail_unit": "piece",
+    "wholesale_unit": "bundle",
+    "base_unit": "piece",
+    "retail_rate": 20.0,
+    "wholesale_rate": 17.5,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 30,
+        "rate": 525.0,
+        "notes": "1 case = 30 bottles"
+      }
+    },
+    "stock_quantity": 60,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "7UP_250ML_20",
+    "canonical_name": "7UP Cool Drink 250ml ₹20",
+    "brand": "PepsiCo",
+    "category": "Beverages",
+    "variant": "250ml Pet",
+    "tamil_name": "செவன் அப் கூல்ட்ரிங்க்ஸ் ₹20",
+    "aliases": [
+      "7UP",
+      "7 Up",
+      "Seven Up",
+      "7UP 20"
+    ],
+    "tamil_aliases": [
+      "செவன் அப்",
+      "7 அப்"
+    ],
+    "retail_unit": "piece",
+    "wholesale_unit": "bundle",
+    "base_unit": "piece",
+    "retail_rate": 20.0,
+    "wholesale_rate": 17.5,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 24,
+        "rate": 420.0,
+        "notes": "1 case = 24 bottles"
+      }
+    },
+    "stock_quantity": 48,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "CAVINS_CHOCOLATE_MILKSHAKE_35",
+    "canonical_name": "Cavin's Chocolate Milkshake 180ml ₹35",
+    "brand": "Cavin's",
+    "category": "Beverages",
+    "variant": "Chocolate 180ml",
+    "tamil_name": "கேவின்ஸ் சாக்லேட் மில்க்ஷேக் ₹35",
+    "aliases": [
+      "Cavins Milkshake",
+      "Cavins Chocolate",
+      "Cavins 35",
+      "Chocolate milkshake"
+    ],
+    "tamil_aliases": [
+      "கேவின்ஸ் மில்க்ஷேக்"
+    ],
+    "retail_unit": "piece",
+    "wholesale_unit": "bundle",
+    "base_unit": "piece",
+    "retail_rate": 35.0,
+    "wholesale_rate": 31.0,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 24,
+        "rate": 744.0,
+        "notes": "1 tray = 24 packs"
+      }
+    },
+    "stock_quantity": 30,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "DASANGAM_POWDER_25",
+    "canonical_name": "Dasangam Dhoop Powder ₹25",
+    "brand": "Cycle",
+    "category": "Incense",
+    "variant": "Box ₹25",
+    "tamil_name": "தசாங்கம் தூள் ₹25",
+    "aliases": [
+      "Dasangam",
+      "Dasangam powder",
+      "Dasangam 25"
+    ],
+    "tamil_aliases": [
+      "தசாங்கம் 25",
+      "தசாங்கம்"
+    ],
+    "retail_unit": "packet",
+    "wholesale_unit": "dozen",
+    "base_unit": "packet",
+    "retail_rate": 25.0,
+    "wholesale_rate": 21.0,
+    "conversion_rules": {
+      "dozen": {
+        "pieces": 12,
+        "rate": 252.0,
+        "notes": "1 dozen = 12 packets"
+      }
+    },
+    "stock_quantity": 40,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "KUMKUM_PACKET_5",
+    "canonical_name": "Gopuram Kumkum Packet ₹5",
+    "brand": "Gopuram",
+    "category": "Incense",
+    "variant": "Small ₹5",
+    "tamil_name": "கோபுரம் குங்குமம் ₹5",
+    "aliases": [
+      "Kumkum",
+      "Kumkumam",
+      "Gopuram kumkum",
+      "Kumkum 5"
+    ],
+    "tamil_aliases": [
+      "குங்குமம் 5",
+      "குங்குமம்"
+    ],
+    "retail_unit": "packet",
+    "wholesale_unit": "bundle",
+    "base_unit": "packet",
+    "retail_rate": 5.0,
+    "wholesale_rate": 4.0,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 20,
+        "rate": 80.0,
+        "notes": "1 bundle = 20 packets"
+      }
+    },
+    "stock_quantity": 100,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "VIBHUTI_PACKET_5",
+    "canonical_name": "Pure Vibhuti (Thiruneeru) Packet ₹5",
+    "brand": "Local",
+    "category": "Incense",
+    "variant": "Small ₹5",
+    "tamil_name": "திருநீறு / விபூதி ₹5",
+    "aliases": [
+      "Vibhuti",
+      "Thiruneeru",
+      "Vibhooti",
+      "Vibhuti 5"
+    ],
+    "tamil_aliases": [
+      "விபூதி 5",
+      "திருநீறு"
+    ],
+    "retail_unit": "packet",
+    "wholesale_unit": "bundle",
+    "base_unit": "packet",
+    "retail_rate": 5.0,
+    "wholesale_rate": 4.0,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 20,
+        "rate": 80.0,
+        "notes": "1 bundle = 20 packets"
+      }
+    },
+    "stock_quantity": 100,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "MEDIMIX_SOAP_35",
+    "canonical_name": "Medimix Ayurvedic Classic Soap 75g ₹35",
+    "brand": "Medimix",
+    "category": "Personal Care",
+    "variant": "75g Bar",
+    "tamil_name": "மேடிமிக்ஸ் சோப் ₹35",
+    "aliases": [
+      "Medimix",
+      "Medimix soap",
+      "Medimix 35"
+    ],
+    "tamil_aliases": [
+      "மேடிமிக்ஸ் சோப்",
+      "மேடிமிக்ஸ்"
+    ],
+    "retail_unit": "piece",
+    "wholesale_unit": "bundle",
+    "base_unit": "piece",
+    "retail_rate": 35.0,
+    "wholesale_rate": 31.0,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 4,
+        "rate": 124.0,
+        "notes": "1 pack of 4 = ₹124"
+      }
+    },
+    "stock_quantity": 60,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "REXONA_SOAP_30",
+    "canonical_name": "Rexona Soap 100g ₹30",
+    "brand": "Rexona",
+    "category": "Personal Care",
+    "variant": "100g Bar",
+    "tamil_name": "ரெக்ஸோனா சோப் ₹30",
+    "aliases": [
+      "Rexona",
+      "Rexona soap",
+      "Rexona 30"
+    ],
+    "tamil_aliases": [
+      "ரெக்ஸோனா சோப்",
+      "ரெக்ஸோனா"
+    ],
+    "retail_unit": "piece",
+    "wholesale_unit": "bundle",
+    "base_unit": "piece",
+    "retail_rate": 30.0,
+    "wholesale_rate": 26.5,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 4,
+        "rate": 106.0,
+        "notes": "1 pack of 4 = ₹106"
+      }
+    },
+    "stock_quantity": 50,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "PARACHUTE_COCONUT_OIL_100ML_42",
+    "canonical_name": "Parachute 100% Pure Coconut Oil 100ml ₹42",
+    "brand": "Parachute",
+    "category": "Personal Care",
+    "variant": "100ml Bottle",
+    "tamil_name": "பாரசூட் தேங்காய் எண்ணெய் 100 மிலி ₹42",
+    "aliases": [
+      "Parachute oil",
+      "Coconut oil",
+      "Parachute 100ml",
+      "Thengai ennai"
+    ],
+    "tamil_aliases": [
+      "பாரசூட் எண்ணெய்",
+      "தேங்காய் எண்ணெய்"
+    ],
+    "retail_unit": "piece",
+    "wholesale_unit": "dozen",
+    "base_unit": "piece",
+    "retail_rate": 42.0,
+    "wholesale_rate": 38.0,
+    "conversion_rules": {
+      "dozen": {
+        "pieces": 12,
+        "rate": 456.0,
+        "notes": "1 dozen = 12 bottles"
+      }
+    },
+    "stock_quantity": 40,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "VICKS_VAPORUB_5G_25",
+    "canonical_name": "Vicks VapoRub 5g Small ₹25",
+    "brand": "Vicks",
+    "category": "Personal Care",
+    "variant": "5g Tin",
+    "tamil_name": "விக்ஸ் டப்பா சிறியது ₹25",
+    "aliases": [
+      "Vicks",
+      "Vicks balm",
+      "Vicks 5g",
+      "Vicks 25"
+    ],
+    "tamil_aliases": [
+      "விக்ஸ் 25",
+      "விக்ஸ்"
+    ],
+    "retail_unit": "piece",
+    "wholesale_unit": "bundle",
+    "base_unit": "piece",
+    "retail_rate": 25.0,
+    "wholesale_rate": 22.0,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 12,
+        "rate": 264.0,
+        "notes": "1 strip = 12 tins"
+      }
+    },
+    "stock_quantity": 60,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "FAIR_AND_LOVELY_SACHET_5",
+    "canonical_name": "Glow & Lovely Face Cream Sachet ₹5",
+    "brand": "Glow & Lovely",
+    "category": "Personal Care",
+    "variant": "Sachet ₹5",
+    "tamil_name": "ஃபேர் அண்ட் லவ்லி பாக்கெட் ₹5",
+    "aliases": [
+      "Fair and Lovely",
+      "Glow and Lovely",
+      "Fair and Lovely sachet",
+      "Fair Lovely 5"
+    ],
+    "tamil_aliases": [
+      "ஃபேர் அண்ட் லவ்லி"
+    ],
+    "retail_unit": "saram",
+    "wholesale_unit": "saram",
+    "base_unit": "saram",
+    "retail_rate": 60.0,
+    "wholesale_rate": 54.0,
+    "conversion_rules": {
+      "saram": {
+        "pieces": 12,
+        "rate": 60.0,
+        "notes": "1 saram = 12 sachets = ₹60"
+      }
+    },
+    "stock_quantity": 40,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "HARPIC_POWER_PLUS_200ML_45",
+    "canonical_name": "Harpic Power Plus Toilet Cleaner 200ml ₹45",
+    "brand": "Harpic",
+    "category": "Household",
+    "variant": "200ml Bottle",
+    "tamil_name": "ஹார்பிக் டாய்லெட் கிளீனர் 200 மிலி ₹45",
+    "aliases": [
+      "Harpic",
+      "Harpic 200ml",
+      "Harpic red",
+      "Harpic blue"
+    ],
+    "tamil_aliases": [
+      "ஹார்பிக் 45",
+      "ஹார்பிக்"
+    ],
+    "retail_unit": "piece",
+    "wholesale_unit": null,
+    "base_unit": "piece",
+    "retail_rate": 45.0,
+    "wholesale_rate": 40.0,
+    "conversion_rules": {},
+    "stock_quantity": 30,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "PRIL_LIQUID_SACHET_5",
+    "canonical_name": "Pril Dishwash Liquid Sachet ₹5",
+    "brand": "Pril",
+    "category": "Household",
+    "variant": "Sachet ₹5",
+    "tamil_name": "பிரில் பாத்திரம் லிக்விட் ₹5",
+    "aliases": [
+      "Pril",
+      "Pril sachet",
+      "Pril 5",
+      "Dishwash liquid sachet"
+    ],
+    "tamil_aliases": [
+      "பிரில் 5",
+      "பிரில் லிக்விட்"
+    ],
+    "retail_unit": "saram",
+    "wholesale_unit": "saram",
+    "base_unit": "saram",
+    "retail_rate": 60.0,
+    "wholesale_rate": 54.0,
+    "conversion_rules": {
+      "saram": {
+        "pieces": 12,
+        "rate": 60.0,
+        "notes": "1 saram = 12 sachets = ₹60"
+      }
+    },
+    "stock_quantity": 40,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "COMFORT_FABRIC_SACHET_5",
+    "canonical_name": "Comfort After Wash Fabric Conditioner Sachet ₹5",
+    "brand": "Comfort",
+    "category": "Household",
+    "variant": "Blue Sachet ₹5",
+    "tamil_name": "கம்ஃபோர்ட் நீல நிற பாக்கெட் ₹5",
+    "aliases": [
+      "Comfort",
+      "Comfort sachet",
+      "Comfort 5",
+      "Comfort blue"
+    ],
+    "tamil_aliases": [
+      "கம்ஃபோர்ட் 5",
+      "கம்ஃபோர்ட்"
+    ],
+    "retail_unit": "saram",
+    "wholesale_unit": "saram",
+    "base_unit": "saram",
+    "retail_rate": 60.0,
+    "wholesale_rate": 54.0,
+    "conversion_rules": {
+      "saram": {
+        "pieces": 12,
+        "rate": 60.0,
+        "notes": "1 saram = 12 sachets = ₹60"
+      }
+    },
+    "stock_quantity": 40,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "UJALA_SUPREME_75ML_25",
+    "canonical_name": "Ujala Supreme Fabric Whitener 75ml ₹25",
+    "brand": "Ujala",
+    "category": "Household",
+    "variant": "75ml Bottle",
+    "tamil_name": "உஜாலா நீலம் 75 மிலி ₹25",
+    "aliases": [
+      "Ujala",
+      "Ujala neelam",
+      "Ujala 75ml",
+      "Neelam bottle"
+    ],
+    "tamil_aliases": [
+      "உஜாலா 25",
+      "உஜாலா நீலம்"
+    ],
+    "retail_unit": "piece",
+    "wholesale_unit": "dozen",
+    "base_unit": "piece",
+    "retail_rate": 25.0,
+    "wholesale_rate": 22.0,
+    "conversion_rules": {
+      "dozen": {
+        "pieces": 12,
+        "rate": 264.0,
+        "notes": "1 dozen = 12 bottles"
+      }
+    },
+    "stock_quantity": 50,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "GOODKNIGHT_COIL_10",
+    "canonical_name": "GoodKnight Mosquito Repellent Coil ₹10",
+    "brand": "GoodKnight",
+    "category": "Household",
+    "variant": "Red Coil ₹10",
+    "tamil_name": "குட்நைட் கொசு சுருள் ₹10",
+    "aliases": [
+      "Goodknight coil",
+      "Mosquito coil",
+      "Good Knight 10",
+      "Kosu surul"
+    ],
+    "tamil_aliases": [
+      "கொசு சுருள்",
+      "குட்நைட்"
+    ],
+    "retail_unit": "packet",
+    "wholesale_unit": "bundle",
+    "base_unit": "packet",
+    "retail_rate": 10.0,
+    "wholesale_rate": 8.5,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 10,
+        "rate": 85.0,
+        "notes": "1 bundle = 10 packets"
+      }
+    },
+    "stock_quantity": 70,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "ALLOUT_REFILL_80",
+    "canonical_name": "AllOut Ultra Mosquito Liquid Refill ₹80",
+    "brand": "AllOut",
+    "category": "Household",
+    "variant": "Refill 45ml",
+    "tamil_name": "ஆல் அவுட் லிக்விட் ரீஃபில் ₹80",
+    "aliases": [
+      "All Out",
+      "Allout refill",
+      "Allout liquid",
+      "Allout 80"
+    ],
+    "tamil_aliases": [
+      "ஆல் அவுட் 80",
+      "ஆல் அவுட்"
+    ],
+    "retail_unit": "piece",
+    "wholesale_unit": null,
+    "base_unit": "piece",
+    "retail_rate": 80.0,
+    "wholesale_rate": 72.0,
+    "conversion_rules": {},
+    "stock_quantity": 30,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "FOUR_SQUARE_10",
+    "canonical_name": "Four Square Kings (Dummy)",
+    "brand": "Godfrey Phillips",
+    "category": "Tobacco",
+    "variant": "Kings",
+    "tamil_name": "ஃபோர் ஸ்கொயர்",
+    "aliases": [
+      "Four Square",
+      "4 Square",
+      "Four Square Kings"
+    ],
+    "tamil_aliases": [
+      "ஃபோர் ஸ்கொயர்"
+    ],
+    "retail_unit": "piece",
+    "wholesale_unit": "packet",
+    "base_unit": "piece",
+    "retail_rate": 10.0,
+    "wholesale_rate": 9.0,
+    "conversion_rules": {
+      "packet": {
+        "pieces": 10,
+        "rate": 90.0,
+        "notes": "1 packet = 10 pieces"
+      }
+    },
+    "stock_quantity": 70,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  },
+  {
+    "product_id": "CAPSTAN_8",
+    "canonical_name": "Capstan (Dummy)",
+    "brand": "ITC",
+    "category": "Tobacco",
+    "variant": "Regular",
+    "tamil_name": "கேப்ஸ்டன்",
+    "aliases": [
+      "Capstan",
+      "Capstan packet"
+    ],
+    "tamil_aliases": [
+      "கேப்ஸ்டன்"
+    ],
+    "retail_unit": "piece",
+    "wholesale_unit": "packet",
+    "base_unit": "piece",
+    "retail_rate": 8.0,
+    "wholesale_rate": 7.2,
+    "conversion_rules": {
+      "packet": {
+        "pieces": 10,
+        "rate": 72.0,
+        "notes": "1 packet = 10 pieces"
+      }
+    },
+    "stock_quantity": 80,
+    "is_dummy": true,
+    "active": true,
+    "metadata": {
+      "dataset": "development_dummy",
+      "stress_test": true,
+      "verified_family_rate": false
+    }
+  }
+]

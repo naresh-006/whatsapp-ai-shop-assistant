@@ -1,0 +1,35 @@
+version: '3.8'
+
+services:
+  mongo:
+    image: mongo:7.0
+    container_name: shop_assistant_mongo
+    restart: unless-stopped
+    ports:
+      - "27017:27017"
+    environment:
+      MONGO_INITDB_DATABASE: shop_assistant
+    volumes:
+      - mongo_data:/data/db
+
+  web:
+    build: .
+    container_name: shop_assistant_backend
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - APP_NAME=AI WhatsApp Shop Assistant
+      - DEBUG=False
+      - HOST=0.0.0.0
+      - PORT=8000
+      - MONGO_URI=mongodb://mongo:27017
+      - MONGO_DB_NAME=shop_assistant
+      - GEMINI_API_KEY=${GEMINI_API_KEY:-}
+      - OPENAI_API_KEY=${OPENAI_API_KEY:-}
+      - WHATSAPP_VERIFY_TOKEN=${WHATSAPP_VERIFY_TOKEN:-shop_assistant_verify_token}
+    depends_on:
+      - mongo
+
+volumes:
+  mongo_data:

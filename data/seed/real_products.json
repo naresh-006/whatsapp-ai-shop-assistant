@@ -1,0 +1,332 @@
+[
+  {
+    "product_id": "FILTER",
+    "canonical_name": "Filter",
+    "category": "Tobacco",
+    "variant": null,
+    "brand": null,
+    "tamil_name": "ஃபில்டர்",
+    "aliases": ["Filter", "Filters", "Gold Flake Filter", "Flake", "Gold Flake", "Flake filter"],
+    "tamil_aliases": ["பில்டர்", "ஃபில்டர்"],
+    "retail_unit": "packet",
+    "wholesale_unit": null,
+    "base_unit": "packet",
+    "retail_rate": 118.0,
+    "wholesale_rate": null,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 50,
+        "rate": null,
+        "notes": "Bundle described as 50 pieces. Do NOT automatically calculate 118 * 50 until clarified."
+      }
+    },
+    "stock_quantity": 100,
+    "active": true,
+    "is_dummy": false,
+    "metadata": {
+      "verified_family_rate": true
+    }
+  },
+  {
+    "product_id": "KINGS",
+    "canonical_name": "Kings Triple Two",
+    "category": "Tobacco",
+    "variant": "Triple Two",
+    "brand": "Kings",
+    "tamil_name": "கிங்ஸ்",
+    "aliases": ["Kings", "King", "Kings Triple Two", "Triple Two"],
+    "tamil_aliases": ["கிங்ஸ்"],
+    "retail_unit": "piece",
+    "wholesale_unit": "bundle",
+    "base_unit": "piece",
+    "retail_rate": 222.0,
+    "wholesale_rate": null,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 20,
+        "rate": 4440.0,
+        "notes": "1 bundle = 20 pieces = 20 * 222 = ₹4440"
+      }
+    },
+    "stock_quantity": 200,
+    "active": true,
+    "is_dummy": false,
+    "metadata": {
+      "verified_family_rate": true
+    }
+  },
+  {
+    "product_id": "SCISSOR",
+    "canonical_name": "Scissor",
+    "category": "Tobacco",
+    "variant": null,
+    "brand": "Scissor",
+    "tamil_name": "சிஸ்சர்",
+    "aliases": ["Scissor", "Scissors", "Scissor packet"],
+    "tamil_aliases": ["சிஸ்சர்"],
+    "retail_unit": "piece",
+    "wholesale_unit": "bundle",
+    "base_unit": "piece",
+    "retail_rate": 100.0,
+    "wholesale_rate": null,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 50,
+        "rate": 5000.0,
+        "notes": "1 bundle = 50 pieces = 50 * 100 = ₹5000"
+      }
+    },
+    "stock_quantity": 300,
+    "active": true,
+    "is_dummy": false,
+    "metadata": {
+      "verified_family_rate": true
+    }
+  },
+  {
+    "product_id": "INTIMATE",
+    "canonical_name": "Intimate",
+    "category": "Tobacco",
+    "variant": null,
+    "brand": "Intimate",
+    "tamil_name": "இன்டிமேட்",
+    "aliases": ["Intimate", "Intimate packet"],
+    "tamil_aliases": ["இன்டிமேட்"],
+    "retail_unit": "piece",
+    "wholesale_unit": "bundle",
+    "base_unit": "piece",
+    "retail_rate": 117.0,
+    "wholesale_rate": null,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 20,
+        "rate": 2340.0,
+        "notes": "1 bundle = 20 pieces = 20 * 117 = ₹2340"
+      }
+    },
+    "stock_quantity": 100,
+    "active": true,
+    "is_dummy": false,
+    "metadata": {
+      "verified_family_rate": true
+    }
+  },
+  {
+    "product_id": "FLAG",
+    "canonical_name": "Flag",
+    "category": "Tobacco",
+    "variant": null,
+    "brand": "Flag",
+    "tamil_name": "பிளாக்",
+    "aliases": ["Flag", "Flag packet"],
+    "tamil_aliases": ["பிளாக்"],
+    "retail_unit": "piece",
+    "wholesale_unit": "bundle",
+    "base_unit": "piece",
+    "retail_rate": 76.0,
+    "wholesale_rate": null,
+    "conversion_rules": {
+      "bundle": {
+        "pieces": 50,
+        "rate": 3800.0,
+        "notes": "1 bundle = 50 pieces = 50 * 76 = ₹3800"
+      }
+    },
+    "stock_quantity": 150,
+    "active": true,
+    "is_dummy": false,
+    "metadata": {
+      "verified_family_rate": true
+    }
+  },
+  {
+    "product_id": "MARIE_LIGHT_10",
+    "canonical_name": "Marie Light ₹10",
+    "category": "Biscuits",
+    "variant": "₹10",
+    "brand": "ITC",
+    "tamil_name": "மேரி லைட் பத்து ரூபாய்",
+    "aliases": ["Marie Light 10", "Marie 10", "Marie Light 10 rupees", "Marie Light ten rupees", "Marie ten rupees", "ten rupees Marie", "Marie ten", "Marie Light ₹10", "Marie Light $10", "Marie $10", "Marie 10rs", "Marie 10r"],
+    "tamil_aliases": ["மேரி 10", "மேரி பத்து"],
+    "retail_unit": "dozen",
+    "wholesale_unit": "dozen",
+    "base_unit": "dozen",
+    "retail_rate": 110.0,
+    "wholesale_rate": null,
+    "conversion_rules": {
+      "dozen": {
+        "pieces": 12,
+        "rate": 110.0,
+        "notes": "1 dozen = ₹110"
+      }
+    },
+    "stock_quantity": 40,
+    "active": true,
+    "is_dummy": false,
+    "metadata": {
+      "verified_family_rate": true
+    }
+  },
+  {
+    "product_id": "MARIE_LIGHT_5",
+    "canonical_name": "Marie Light ₹5",
+    "category": "Biscuits",
+    "variant": "₹5",
+    "brand": "ITC",
+    "tamil_name": "மேரி லைட் ஐந்து ரூபாய்",
+    "aliases": ["Marie Light 5", "Marie 5", "Marie Light 5 rupees", "Marie Light five rupees", "Marie five rupees", "five rupees Marie", "Marie five", "Marie Light ₹5", "Marie Light $5", "Marie $5", "Marie 5rs", "Marie 5r"],
+    "tamil_aliases": ["மேரி 5", "மேரி ஐந்து"],
+    "retail_unit": "dozen",
+    "wholesale_unit": "dozen",
+    "base_unit": "dozen",
+    "retail_rate": 55.0,
+    "wholesale_rate": null,
+    "conversion_rules": {
+      "dozen": {
+        "pieces": 12,
+        "rate": 55.0,
+        "notes": "1 dozen = ₹55"
+      }
+    },
+    "stock_quantity": 50,
+    "active": true,
+    "is_dummy": false,
+    "metadata": {
+      "verified_family_rate": true
+    }
+  },
+  {
+    "product_id": "YIPPEE_NOODLES",
+    "canonical_name": "Yippee Noodles",
+    "category": "Noodles",
+    "variant": null,
+    "brand": "Sunfeast",
+    "tamil_name": "இப்பி நூடுல்ஸ்",
+    "aliases": ["Yippee", "Yippee Noodles", "Yippee 15", "Yippee 13", "Yippee 13rs"],
+    "tamil_aliases": ["இப்பி"],
+    "retail_unit": "piece",
+    "wholesale_unit": "dozen",
+    "base_unit": "piece",
+    "retail_rate": 15.0,
+    "wholesale_rate": null,
+    "conversion_rules": {
+      "dozen": {
+        "pieces": 12,
+        "rate": null,
+        "notes": "Dozen rate ambiguous (mentioned ₹13). Do not invent dozen rate until clarified."
+      }
+    },
+    "stock_quantity": 80,
+    "active": true,
+    "is_dummy": false,
+    "metadata": {
+      "verified_family_rate": true
+    }
+  },
+  {
+    "product_id": "YIPPEE_FAMILY_PACK",
+    "canonical_name": "Yippee Family Pack",
+    "category": "Noodles",
+    "variant": "Family Pack",
+    "brand": "Sunfeast",
+    "tamil_name": "இப்பி ஃபேமிலி பேக்",
+    "aliases": ["Yippee Family Pack", "Yippee family", "Yippee 55"],
+    "tamil_aliases": ["இப்பி ஃபேமிலி"],
+    "retail_unit": "piece",
+    "wholesale_unit": "dozen",
+    "base_unit": "piece",
+    "retail_rate": 55.0,
+    "wholesale_rate": null,
+    "conversion_rules": {
+      "dozen": {
+        "pieces": 12,
+        "rate": null,
+        "notes": "1 dozen = 12 pieces"
+      }
+    },
+    "stock_quantity": 30,
+    "active": true,
+    "is_dummy": false,
+    "metadata": {
+      "verified_family_rate": true
+    }
+  },
+  {
+    "product_id": "BEEDI",
+    "canonical_name": "Beedi",
+    "category": "Tobacco",
+    "variant": null,
+    "brand": null,
+    "tamil_name": "பீடி",
+    "aliases": ["Beedi", "Bidi", "Beedi bundle"],
+    "tamil_aliases": ["பீடி"],
+    "retail_unit": "bundle",
+    "wholesale_unit": "bundle",
+    "base_unit": "bundle",
+    "retail_rate": 320.0,
+    "wholesale_rate": null,
+    "conversion_rules": {},
+    "stock_quantity": 50,
+    "active": true,
+    "is_dummy": false,
+    "metadata": {
+      "verified_family_rate": true
+    }
+  },
+  {
+    "product_id": "BINGO_5",
+    "canonical_name": "Bingo ₹5",
+    "category": "Snacks",
+    "variant": "₹5",
+    "brand": "Bingo",
+    "tamil_name": "பிங்கோ ஐந்து ரூபாய்",
+    "aliases": ["Bingo 5", "Bingo five", "Bingo 5 rupees", "Bingo five rupees", "five rupees Bingo", "5 rupees Bingo", "Bingo ₹5", "Bingo $5", "Bingo 5rs", "Bingo 5r", "Bingo rs 5"],
+    "tamil_aliases": ["பிங்கோ 5", "பிங்கோ ஐந்து"],
+    "retail_unit": "saram",
+    "wholesale_unit": "saram",
+    "base_unit": "saram",
+    "retail_rate": 76.0,
+    "wholesale_rate": null,
+    "conversion_rules": {
+      "saram": {
+        "pieces": 16,
+        "rate": 76.0,
+        "notes": "1 saram = 16 pieces = ₹76"
+      }
+    },
+    "stock_quantity": 60,
+    "active": true,
+    "is_dummy": false,
+    "metadata": {
+      "verified_family_rate": true
+    }
+  },
+  {
+    "product_id": "BINGO_10",
+    "canonical_name": "Bingo ₹10",
+    "category": "Snacks",
+    "variant": "₹10",
+    "brand": "Bingo",
+    "tamil_name": "பிங்கோ பத்து ரூபாய்",
+    "aliases": ["Bingo 10", "Bingo ten", "Bingo 10 rupees", "Bingo ten rupees", "ten rupees Bingo", "10 rupees Bingo", "Bingo ₹10", "Bingo $10", "Bingo 10rs", "Bingo 10r", "Bingo rs 10"],
+    "tamil_aliases": ["பிங்கோ 10", "பிங்கோ பத்து"],
+    "retail_unit": "saram",
+    "wholesale_unit": "saram",
+    "base_unit": "saram",
+    "retail_rate": 110.0,
+    "wholesale_rate": null,
+    "conversion_rules": {
+      "saram": {
+        "pieces": 16,
+        "rate": 110.0,
+        "notes": "1 saram = 16 pieces = ₹110"
+      }
+    },
+    "stock_quantity": 60,
+    "active": true,
+    "is_dummy": false,
+    "metadata": {
+      "verified_family_rate": true
+    }
+  }
+]
